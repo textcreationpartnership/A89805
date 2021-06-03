@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the late Parliament, (so called) their election and appearing, the seclusion of a great part of them. The sitting of the rest. With an account of the places of profit, sallaries, and advantages which they hold and receive, under the present power. With some queries thereupon: and upon the most materiall acts and proceedings passed by them. All, humbly proposod [sic] to consideration; and published for information of the people. By a friend to the Common-Wealth, and to its dear bought rights and freedome.</title>
+            <author>Friend to the Common-Wealth, and to its dear bought rights and freedome.</author>
+         </titleStmt>
+         <extent>Approx. 87KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89805</idno><idno type="EEBO-CITATION">99863089</idno>
+  <idno type="VID">115271</idno>
+  <idno type="EEBO-PROQUEST">2240942666</idno>
+  
+            <idno type="STC">Wing N194</idno>
+            <idno type="STC">Thomason E935_5</idno>
+            <idno type="STC">ESTC R202975</idno>
+            <idno type="PROQUEST">99863089</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863089e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115271)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 140:E935[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the late Parliament, (so called) their election and appearing, the seclusion of a great part of them. The sitting of the rest. With an account of the places of profit, sallaries, and advantages which they hold and receive, under the present power. With some queries thereupon: and upon the most materiall acts and proceedings passed by them. All, humbly proposod [sic] to consideration; and published for information of the people. By a friend to the Common-Wealth, and to its dear bought rights and freedome.</title>
+                  <author>Friend to the Common-Wealth, and to its dear bought rights and freedome.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno 1657</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "London", "february".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115271:1"/>
+            <p>A <hi>NARRATIVE of the late Parliament,</hi> (so called)
+<list>
+                  <item>
+                     <hi>Their Election and Appearing,</hi>
+                  </item>
+                  <item>
+                     <hi>The Seclusion of a great part of them.</hi>
+                  </item>
+                  <item>
+                     <hi>The Sitting of the rest.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>With an Account of the Places of Profit, Sallaries, and Advantages which they Hold and Receive, under the Present Power.</p>
+            <p>With some <hi>Queries</hi> thereupon: And upon the most materiall Acts and Proceedings Passed by them.</p>
+            <p>
+               <hi>ALL,</hi> Humbly Proposod to Consideration; and Published for Information of the People. <hi>By a Friend to the COMMON-WEALTH, and to its Dear bought Rights and Freedome.</hi>
+            </p>
+            <p>Anno 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb n="2" facs="tcp:115271:2"/>
+            <head>A Narrative of the late Parliament (so called) their Election and Appearing; The Seclusion of a great Part of them; The Sitting of the rest: With an account of the Places of Profit, Sallaries, and Advantages which they Hold and Receive under the Present Power, <hi>&amp;c.</hi>
+            </head>
+            <p>IT is not unknown unto all Intelligent and Obser<g ref="char:EOLhyphen"/>ving People, what great stickling and underhand dealing was put in practise by the Court Party, in driving on interests and Designes, about Choosing this last pretended Parliament: In improving the Major Ge<g ref="char:EOLhyphen"/>nerals to that purpose (who were not wanting in the matter) As also by writing of Letters to the Sheriffs, who were (some of them) very officious in that service; whereby severall worthy Patriots had very foule and unequall termes offered them, not being suffered to be put in Nomination; justifying their proceedings to be no other than according to Order they had so to doe; <hi>Middlesex, Chesh-shire, Berks-shire,</hi> and the City of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> may serve for instances instead of others: Neither were the Clergy behinde in endeavours for the Advance<g ref="char:EOLhyphen"/>ment of their own Interest; as appeared by meetings held in very many Counties, to agree, and make Choise before hand among themselves, and then promote their Choise against the Election Day; And upon the day ap<g ref="char:EOLhyphen"/>pearing like so many Captains, or Leaders, cryed up the parties they had chosen before to serve their Interest. But what cause the People have to rejoyce, and give them thanks for this Service, doth already in part ap<g ref="char:EOLhyphen"/>pear; and further may, when they shall feel the burthens of Excise and Customs, with the many Fetters and Snares attending the same; As also a Tax backward to be paid
+<pb n="3" facs="tcp:115271:2"/> over again. And another for three years together, never the like in <hi>England</hi> before: Together with a new Project to raise mony out of all such Houses, for ten Miles distance without the Walls of the City af <hi>London,</hi> that from thir<g ref="char:EOLhyphen"/>ty seven years past, to the 29. of <hi>September</hi> last, have been built upon new foundations; with other Acts serving designes, but not one for the ease of the people, or the pu<g ref="char:EOLhyphen"/>nishment of those who have wronged and abused them. <hi>By which Acts these Gentlemen, and those that chose them,</hi> make themselves Accessary too, and as much as in them lies, guilty of all this hard bondage, that now is, or may further come upon us.</p>
+            <p>The Gentlemen ehosen to sit in this Assembly, accord<g ref="char:EOLhyphen"/>ingly made their Appearance, and gave attendance at <hi>Westminster</hi> in Order to that service, where a great num<g ref="char:EOLhyphen"/>ber of them finde themselves secluded the House, and not suffered to enter in to do their duty, who having waited a day, or two without success, many of them made an Ad<g ref="char:EOLhyphen"/>dress to their fellow members sitting in the House, for their admittance: Some of the names of those Gentlemen so kept out of the House here followeth.
+<list>
+                  <item>Sr. Arthur Hasserigg</item>
+                  <item>Thomas Scott</item>
+                  <item>Herbert Morley</item>
+                  <item>John Bulkley</item>
+                  <item>John Birch</item>
+                  <item>Collonel Fenwick</item>
+                  <item>Anthony Erby</item>
+                  <item>Thomas Lister</item>
+                  <item>Thomas Birch</item>
+                  <item>Thomas Sanders</item>
+                  <item>Henry Darley</item>
+                  <item>John VVeaver</item>
+                  <item>Alexander Popham</item>
+                  <item>Francis Thorp</item>
+                  <item>Anth. Ashley Cooper</item>
+                  <item>John Southby</item>
+                  <item>Richard Greenvil</item>
+                  <item>Thomas Adams</item>
+                  <item>Richard Brown</item>
+                  <item>Richard Darley</item>
+                  <item>Thomas St. Nicholas</item>
+                  <item>VVilliam James</item>
+                  <item>John Boyse</item>
+                  <item>Charls Hill</item>
+                  <item>John Jones</item>
+                  <item>VViliam VVolley</item>
+                  <item>Richard Radcliff</item>
+                  <item>VVilliam Savill</item>
+                  <item>Theo. Biddulph</item>
+                  <item>Henry Mildmay</item>
+                  <item>Harb. Grimston</item>
+                  <item>VVilliam VVelby</item>
+                  <item>Charles Hussey</item>
+                  <item>Edmond Harvey</item>
+                  <item>John Sicklemore</item>
+                  <item>William Doyly</item>
+                  <item>Ralph Hare</item>
+                  <item>John Hubbard</item>
+                  <item>Olive Raymond</item>
+                  <item>Jeremiah Bentley</item>
+                  <item>Phillip Woodhouse</item>
+                  <item>John Buxton</item>
+                  <pb n="4" facs="tcp:115271:3"/>
+                  <item>VVilliam Bloyse</item>
+                  <item>VVilliam Gibbs</item>
+                  <item>Thomas Southerton</item>
+                  <item>Sr. Thomas Bows</item>
+                  <item>Edward Harlow</item>
+                  <item>John Hanson</item>
+                  <item>Clement Throgmorton</item>
+                  <item>Henry North</item>
+                  <item>Sir Iohn VVittrong</item>
+                  <item>George Courthop</item>
+                  <item>Samuel Gost</item>
+                  <item>John Buckland</item>
+                  <item>Robert Long</item>
+                  <item>Iohn Northcot</item>
+                  <item>Iohn Young</item>
+                  <item>Iohn Doddrige</item>
+                  <item>Henry Hungerford</item>
+                  <item>Edward Yooker</item>
+                  <item>VVilliam Morrice</item>
+                  <item>Iohn Haile</item>
+                  <item>Edward Tukner</item>
+                  <item>Challen Chute</item>
+                  <item>Daniel Shatterden</item>
+                  <item>Sir Thomas Styles</item>
+                  <item>Richard Beale</item>
+                  <item>VVall. Moyle</item>
+                  <item>VVall. Vincent</item>
+                  <item>Iohn Gell</item>
+                  <item>Henry Arthington</item>
+                  <item>Henry Tempest</item>
+                  <item>Iames Clavering</item>
+                  <item>Iohn Stanhop</item>
+                  <item>Pen: VVhaly</item>
+                  <item>Abell Burker</item>
+                  <item>Samuell More</item>
+                  <item>Thomas Minors</item>
+                  <item>Samuell Iones</item>
+                  <item>Edward Hooper</item>
+                  <item>Richard VVinneve</item>
+                  <item>Iohn Fagg</item>
+                  <item>Thomas Rivers</item>
+                  <item>Henry Peckham</item>
+                  <item>Charles Lloyd</item>
+                  <item>Iohn Thurbone</item>
+                  <item>VVilliam Flisher</item>
+                  <item>Iohn Gore</item>
+                  <item>Row. Litton.</item>
+               </list>
+            </p>
+            <p>
+               <hi>The Answer of the Gentlemen in the House, to the foremen<g ref="char:EOLhyphen"/>tioned Address, was to this effect,</hi> viz. That those Gentle<g ref="char:EOLhyphen"/>men must addresse themselves to the Councell.</p>
+            <p>Upon the unsatisfactorinesse and injustice of which Answer these Gentlemen, rather than they would yeeld to so great a Violation of Parliamentary Power, Resol<g ref="char:EOLhyphen"/>ved to depart to their own Countries again, which ac<g ref="char:EOLhyphen"/>cordingly they did.</p>
+            <p>Upon this Breach made in the House, and giving up the Rights and Interest of the English Nation in Parlia<g ref="char:EOLhyphen"/>ment, to be judged without doores, by an inferiour po<g ref="char:EOLhyphen"/>wer; divers Gentlemen then sitting in the House, who being endued with Principles of Justice, and Righteous<g ref="char:EOLhyphen"/>nesse, and love to the Nations freedome, immediately withdrew; and others would not enter into the House at all, but departed to their severall habitations.</p>
+            <div type="queries">
+               <pb n="5" facs="tcp:115271:3"/>
+               <head>Ʋpon all which, it is Proposed and Queried.</head>
+               <p>First, Whether since the Conquest there was ever such a blow given (by a People owning themselves a Parlia<g ref="char:EOLhyphen"/>ment) to the Interest and freedome of the English Na<g ref="char:EOLhyphen"/>tion, as the suffering to be secluded from them (by an inferiour Power) so great a number of Members chosen by the People to sit, as their Representors in Parliament, without any Cause shewn for such a proceeding.</p>
+               <p n="2">2. How this upstart Protector and his Councel, of a little more than three years standing, should come to be impowred to do those things, which a King and his Councel of more than four hundred years descent could not, nor durst not doe. And whether the late, together with the former Force put upon the House, by excluding fo many of their Members be not a Crime twentyfold beyond that of the late Kings, in going about to seclude the Five Members, so highly disrescented in that day by the People, and afterwards attended with so great fewd and bloodshed?</p>
+               <p n="3">3. Whether till this unworthy Generation, there ever were such a Company of false-hearted, low-spirited, mer<g ref="char:EOLhyphen"/>cenary Englishmen Sitting in that House before, that would at once so easily give up the Right, Interest, and Freedome of this Nation, in suffering their Fellow-Mem<g ref="char:EOLhyphen"/>bers to be rent from them, and judged without doores; As if there were a just Power at present upon Earth, high<g ref="char:EOLhyphen"/>er, and greater than the good Peoples Representors in Parliament: Which by all well affected people in the Army and elsewhere was so generally acknowledged the Supream Authority?</p>
+               <pb n="6" facs="tcp:115271:4"/>
+               <p>Fourthly, Whether these Persons in thus doing, as also in Confirming (as it were) this Usurpation by a Law, in settling the Government in a single Person and his Councell, with a House of Lords as it was before; gi<g ref="char:EOLhyphen"/>ving him a Negative Voice, and the power of disposing the Malitia and Navy, things formerly so much<note n="(a)" place="margin">See in a repre<g ref="char:EOLhyphen"/>sentation of the Army, and large Petition, in Book called <hi>Looking glass, p.</hi> 5, 11, 12, 13. And in <hi>Alb.</hi> Remonst. <hi>p</hi> 25, 26. A Letter <hi>p.</hi> 40. In Act of Parliam. after beheading of the King. <hi>p.</hi> 44. of the same Book. and in Declaration 19. <hi>July</hi> 1650. <hi>p.</hi> 47. and Declaration 1. <hi>August</hi> following <hi>p.</hi> 49, 50. and in Declaration after the old Parliament was di<g ref="char:EOLhyphen"/>solved, see <hi>page</hi> 54. of the same Book, all procured in that day by the now Protector, so called, and the then honest part of the Army.</note> com<g ref="char:EOLhyphen"/>plained off, and opposed, as the effects of Tyran<g ref="char:EOLhyphen"/>ny and Usurpation in the late King; together with many other things done by them, tending to oppresse and Enslave the People; have not as much as in them lies pulled upon themselves and the three Nations, the guilt of all the Blood of the late Wars, acknowledged by the Army and others, to be shed in removing the foresaid Evils; as likewise to make void and fruitlesse the vast summs of money, and Treasure expended upon that account?</p>
+               <p n="5">5. Whether the aforesaid Gentlemen are not therefore to be esteemed by all true hearted Eng<g ref="char:EOLhyphen"/>lish men, as<note n="(b)" place="margin">See <hi>Looking glass p.</hi> 47. in Declaration <hi>July</hi> 19. 1650. the Ar<g ref="char:EOLhyphen"/>my confesse so much themselves.</note> betrayers off, and Traytors to the Cause of God, and their Countreys Liberties, and a company of Sallary men; Sonnes, Servants, Kins<g ref="char:EOLhyphen"/>men and Lawyers, <hi>&amp;c.</hi> purposely pact to enthrone their Protectors single Interest, rather than a Parliament of the Common wealth of <hi>England,</hi> Lawfully called and consti<g ref="char:EOLhyphen"/>tuted to carry on the good old Cause, <hi>viz.</hi> The promo<g ref="char:EOLhyphen"/>ting of Reformation, and vindication of the peoples Li<g ref="char:EOLhyphen"/>berties.</p>
+               <pb n="7" facs="tcp:115271:4"/>
+               <p n="6">6. Whether some of those Gentlemen who were se<g ref="char:EOLhyphen"/>cluded, with other that were injuriously hindered from being chosen, have not been more faithfull to the Cause formerly contended for; And better Patriots to their Countrey, And such who less deserve why they should be rejected, than such as Mr. <hi>Glyn,</hi> Mr. <hi>Nicholls,</hi> (two of the eleven Members, who endeavouring to settle the same things upon the King, they have now pretended to doe upon their Protector, were counted false to God and the people) Sr, <hi>Charlss Ousley</hi> and Commissioner <hi>Fines.</hi>
+               </p>
+               <p n="7">7. And whether Mr. <hi>Thomas</hi> St. <hi>Nicholas,</hi> Collonel <hi>Dixwell, &amp;c.</hi> Were not as capable, and every way more likely to Councel and advise for the good of their Countrey, As the Sons of Major General <hi>Desbrow,</hi> of Mr. <hi>Lawrence</hi> President of the Council, and of Sr <hi>Hardress Waller,</hi> as yet both in years and experience Children.</p>
+               <p>Eightly, Doth not this picking a lukewarm Neuter, from one place, a Cavaleere from another, and young youths of no Principles from another: And packing them with his Kindred, Sons, Servants, and Sallary men, and a sort of Conquered <hi>Scotch</hi> men? A thing formerly so much<note n="(c)" place="margin">See <hi>Lookinglass p.</hi> 22. in Remonstrance at Albons.</note> feared and complained of in the late King? Now plainly declare that his pretence in Dissol<g ref="char:EOLhyphen"/>ving the Old Parliament; for not making pro<g ref="char:EOLhyphen"/>vision in their Act for a New Representive to<note n="(d)" place="margin">See <hi>p.</hi> 58. of the same book, in his speech to the little Parliament.</note> keep out Presbyters and Neuters was false; And that it was rather done as a farther step whereby he might ascend into this present greatness, then for the preservation of the Cause, which at that time was so highly pretended too?</p>
+               <pb n="8" facs="tcp:115271:5"/>
+               <p>Ninethly, Or is this practice in the least measure agreeing with that Spirit pretended unto in the choise of the little Parliament, or with that profession made by him in his Speech to them, <hi>viz.</hi> That they had not allowed themselves in the choise of one person, of whom they had not this good hope, there was<note n="(e)" place="margin">See <hi>Looking glass p.</hi> 61. 63. and 59. in the speech he made to them in his own, and Offi<g ref="char:EOLunhyphen"/>cers Names.</note> faith in Jesus Christ, and love to all the Saints. And that they judged it their duty to chuse none but godly men of principles, men knowing and fearing the Lord, who had made observations of his marveilous Dispensations; Such as he had for<g ref="char:EOLhyphen"/>med for himself; because he expected not praises from o<g ref="char:EOLhyphen"/>thers, And these the onely fit men to be entrusted with the Cause and no others: And therefore went in that ex<g ref="char:EOLhyphen"/>traordinary way, &amp; not in the way of the Nation, because till the spirit was more powred forth, the people would not be in a capacity to choose such men, <hi>&amp;c.</hi> Now whe<g ref="char:EOLhyphen"/>ther the late picking and choosing (as is before exprest) a party of men of such a Spirit, and under such Qualifi<g ref="char:EOLhyphen"/>cations, as this present Parliament (so called) is off, be not a notorious destroying of that profession and principle, then owned, and seemingly practised, Let all honest, and unbyast men judge.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="account_of_Parliamentarians">
+                           <head>Here follows the Truest and best Account that as yet can be gotten of the Names of those Gentlemen, who conti<g ref="char:EOLhyphen"/>nued in the House, and have places of profit, Offices, Sallaries and advantages in the Common-wealth. To<g ref="char:EOLhyphen"/>gether with the Names of the Sons, Kinsmen, Servants, and others, who are under Engagements unto, and have dependance upon the <hi>Protector</hi> (so called) who being so well seasoned with the Salt of his Palace, ac<g ref="char:EOLhyphen"/>cording to <hi>Ezra 4.14.</hi> must needs be devoted to his Interest, wherein their own is wholly involved.</head>
+                           <div type="names_of_councillors">
+                              <pb n="9" facs="tcp:115271:5"/>
+                              <list type="list_of_councillors">
+                                 <head>Of the Council.</head>
+                                 <item>Mr <hi>Lawrence</hi> as President 1000<abbr>l.</abbr> per Annum</item>
+                                 <item>Major General <hi>Lambert</hi> as one of the Council 1000<abbr>l.</abbr> per Annum: As Major General of the Army 365<abbr>l.</abbr> As Collo<g ref="char:EOLunhyphen"/>nel of Horse 474<abbr>l.</abbr> 10<abbr>s.</abbr> Collonel of Foot 365<abbr>l.</abbr> and as is reported had the Generals pay 3640<abbr>l.</abbr> per Annum: as Major General of some Countreys 666<abbr>l.</abbr> 13<abbr>s.</abbr> 4<abbr>d.</abbr> in all 6 511<abbr>l.</abbr> 3<abbr>s.</abbr> 4<abbr>d.</abbr> These pla<g ref="char:EOLhyphen"/>ces he had, but whether he hath the Conscience to receive thus for them, or gives any away to those that act under him, is best known to himself; he is also a Lord of the Cinque Ports.</item>
+                                 <item>Lievetenant General <hi>Fleetwood</hi> as one of the Council, 1000<abbr>l.</abbr> per annum, as Lord Deputy of <hi>Ireland,</hi> 3640<abbr>l</abbr>, per an<g ref="char:EOLhyphen"/>num, as Collonel of Horse in <hi>Ireland,</hi> 474<abbr>l.</abbr> 10<abbr>s</abbr>, collonel of Foot there 365<abbr>l</abbr> as collonel of Horse in <hi>England</hi> 474<abbr>l</abbr>, 10<abbr>s.</abbr> as Major General of some Counties 666<abbr>l</abbr>, 13<abbr>s</abbr>, 4<abbr>d</abbr>, in all 6620<abbr>l</abbr>, 13, 4<abbr>d.</abbr> Its said he remained Lievt. General of the Horse in <hi>England.</hi> It is supposed he hath all these places, but whether he receives all the pay or gives any to those that act under him, h mself best knowes. He Married the Protectors Daughter.</item>
+                                 <item>Major General <hi>Disbrow</hi> as one of the Council 1000<abbr>l</abbr> per annum, as General at Sea 109 5<abbr>l.</abbr> Collonel of Horse 474<abbr>l</abbr>, 10<abbr>s.</abbr> as Major General of the VVestern Countries 666<abbr>l</abbr>, 13<abbr>s</abbr>, 4<abbr>d.</abbr> in all 3236<abbr>l</abbr>, 3<abbr>s</abbr>, 4<abbr>d.</abbr> per annum. It is said he is one of the Cinque port Lords. He married the Pro<g ref="char:EOLhyphen"/>tectors Sister, whereby he is doubly en<g ref="char:EOLhyphen"/>gaged to serve his Brothers Interest.</item>
+                                 <item>Collonel <hi>Mountague</hi> as one of the Council 1000<abbr>l</abbr> per annum, Commission<g ref="char:EOLhyphen"/>er of the Treasury 1000<abbr>l.</abbr> as General at Sea 1095<abbr>l</abbr>, in all 309 5<abbr>l.</abbr> per annum.</item>
+                                 <item>Collonel <hi>Sydenham</hi> as one of the Council 1000<abbr>l.</abbr> per annum, one of the Commissioners of the Treasury 1000<abbr>l.</abbr> in all 2000<abbr>l.</abbr> per annum, besides the Go<g ref="char:EOLhyphen"/>vernment of the <hi>Isle of Wight.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Fines</hi> as one of the Council 1000<abbr>l</abbr> per annum, Commissioner of the great Seal 1000<abbr>l.</abbr> as Keeper of the privy Seal, supposed worth 1000<abbr>l</abbr>, more, in all 3000<abbr>l.</abbr> per annum.</item>
+                                 <item>Sir <hi>Charles Ousley</hi> as one of the Coun<g ref="char:EOLhyphen"/>cil 1000<abbr>l</abbr> per annum.</item>
+                                 <item>Mr. <hi>Strickland</hi> as one of the Council 1000<abbr>l.</abbr> per annum, and is Captain of the gray coat foot guard at <hi>White hall.</hi>
+                                 </item>
+                                 <item>Sir <hi>Gilbert Pickering</hi> as one of the Council 1000<abbr>l.</abbr> per annum, Chamberlain at Court, and Steward of <hi>Westminster.</hi>
+                                 </item>
+                                 <item>Major General <hi>Skippon</hi> as one of the Council 1000<abbr>l.</abbr> per annum, as Major General of the Citty, it is supposed he hath 666<abbr>l</abbr>, 13<abbr>s</abbr>, 4<abbr>d.</abbr> according to his Brethren Major Generals of the Coun<g ref="char:EOLhyphen"/>tries.</item>
+                                 <item>
+                                    <hi>Mr. Rouse</hi> as one of the Council 1000<abbr>l</abbr> per annum, as Provost of <hi>Laton</hi> Colledg 500<abbr>l.</abbr> in all 1500<abbr>l.</abbr> per annum.</item>
+                                 <item>Collonel <hi>Phillip Jones</hi> as one of the Council 1000<abbr>l.</abbr> per annum, he either is or was his master <hi>Cromwell</hi>'s Steward, or Overseer of his Lands in <hi>Wales,</hi> and is <hi>Custos Rotulorum</hi> of two or three Coun<g ref="char:EOLhyphen"/>ties there.</item>
+                                 <item>
+                                    <hi>Mr. John Thurlo</hi> Secretary of State and chief Postmaster of <hi>England,</hi> places of a vast income, he may justly be said to have a great hand in bringing all this a<g ref="char:EOLhyphen"/>bominable VVickednes, Slavery and Op<g ref="char:EOLhyphen"/>pression that hath been for above these years to this very day upon the Nation.</item>
+                              </list>
+                           </div>
+                           <div type="names_of_lawyers">
+                              <head>Here follows the names of those Lawyers that continued in the House, who have advan<g ref="char:EOLhyphen"/>tages from the State, who are placed in the van of the
+<pb n="10" facs="tcp:115271:6"/> Souldiers, as the more ho<g ref="char:EOLhyphen"/>nourable persons, their Ge<g ref="char:EOLhyphen"/>neral having lately laid a<g ref="char:EOLhyphen"/>side, and delivered up his Sword to put on the Gown.</head>
+                              <list type="list_of_lawyers">
+                                 <item>Sir <hi>Thomas Widdrington</hi> as Speaker of the House 35<abbr>l.</abbr> per week, which is 182 <abbr>l</abbr> per annum, as Commissioner of the Treasury 1000<abbr>l</abbr>, per ann. in all, 2829<abbr>l</abbr> per annum, and hath besides for every private Act 5<abbr>l.</abbr> and for every stran<g ref="char:EOLhyphen"/>ger that is Naturalised or made a free Denison; and hath gotten for that already as is supposed nere 1500<abbr>l.</abbr> He is Recorder of <hi>York,</hi> having these great engagements upon him he can do no o<g ref="char:EOLhyphen"/>ther (if it be required) than put on the Kings old Robe, upon his Lord Pro<g ref="char:EOLhyphen"/>tector.</item>
+                                 <item>Lord <hi>Whitlock</hi> as Commissioner of the Treasury 1000<abbr>l.</abbr> per annum; his son is a Captain in the Army, and lately made a Knight, he must needs serve the Court Interest.</item>
+                                 <item>Lord <hi>Lisle</hi> one of the Commissioners of the great Soal 1000<abbr>l.</abbr> per annum.</item>
+                                 <item>
+                                    <hi>Mr. William Lenthal</hi> Speaker of the old Parliament formerly, as master of the Rowls supposed worth 2000<abbr>l.</abbr> per annum.</item>
+                                 <item>
+                                    <hi>Mr. Prideaux</hi> as Atturney General to the State 5<abbr>l.</abbr> for every Patent, and 5<abbr>l</abbr> for every Pardon, and by the liberty of Pleading within Barre, together with 2000<abbr>l</abbr>▪ he gets by great Fees; it is sup<g ref="char:EOLhyphen"/>posed to amount to in all neer 6000<abbr>l.</abbr> per annum.</item>
+                                 <item>
+                                    <hi>Mr. Glyn</hi> one of the eleven Members formerly impeached by the Army of trea<g ref="char:EOLunhyphen"/>son, now Lord chief Iustice of <hi>England,</hi> for which he hath 1000<abbr>l.</abbr> per annum, be<g ref="char:EOLhyphen"/>sides other advantages, a man of Princi<g ref="char:EOLhyphen"/>ples fitted for the Interest of Monarchy.</item>
+                                 <item>
+                                    <hi>Mr. Ellis</hi> as Soliciter General to the State hath as is supposed neer 3000<abbr>l.</abbr> per annum.</item>
+                                 <item>
+                                    <hi>Mr. Parker</hi> as one of the Barons of the Exechequer 1 00<abbr>l</abbr> per annum.</item>
+                                 <item>Baron <hi>Nicholas</hi> the same place, and sallary.</item>
+                                 <item>Baron <hi>Hall</hi> the same place and sallary</item>
+                                 <item>
+                                    <hi>Mr. Lechmore</hi> Atturney of the Dutchy, his advantage thereby not well known.</item>
+                                 <item>
+                                    <hi>Mr. Nathaniel Bacon</hi> as one of the Masters of Requests 500<abbr>l.</abbr> per annum.</item>
+                                 <item>
+                                    <hi>Mr. Francis Bacon</hi> the like place and sallary.</item>
+                                 <item>
+                                    <hi>Lislebone Long</hi> lately one of the Ma<g ref="char:EOLhyphen"/>sters of Requests, and the better to carry on his Masters Interest, among the low spirited, Mayor, Aldermen and common Council in the Citty, is now made Re<g ref="char:EOLhyphen"/>corder of <hi>London▪</hi> supposed worth 2000<abbr>l.</abbr> per annum and is also a new Knight to the new Court.</item>
+                                 <item>
+                                    <hi>Miles Fleetwood</hi> one of the Clarks of the privie seale supposed worth between 3. and 400<abbr>l.</abbr> per an.</item>
+                                 <item>
+                                    <hi>Mr. Robert Shapcot</hi> one of the com<g ref="char:EOLhyphen"/>missioners for executing that abominable oppressive wicked act for the new buil<g ref="char:EOLhyphen"/>dings his sallary as yet unknown,</item>
+                                 <item>
+                                    <hi>Thomas Bamfeild</hi> Recorder of <hi>Ex<g ref="char:EOLhyphen"/>on.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Westlake</hi> Towne clarke.</item>
+                                 <item>
+                                    <hi>Mr. Lister</hi> Recorder of <hi>Hull.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Guibbon Goddard</hi> Recorder of <hi>Lyn.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Lambert Godfery</hi> Recorder of <hi>Maid<g ref="char:EOLhyphen"/>stone.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Mathews</hi> Recorder of <hi>Mal<g ref="char:EOLhyphen"/>den.</hi>
+                                 </item>
+                              </list>
+                           </div>
+                           <div type="names_of_army_officers">
+                              <head>The Names of the Officers be<g ref="char:EOLhyphen"/>longing to the Armyes of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and their Garisons and such as are of the Coun<g ref="char:EOLhyphen"/>try
+<pb n="11" facs="tcp:115271:6"/> Troops, and the late crea<g ref="char:EOLhyphen"/>ted Major Generalls.</head>
+                              <list type="list_of_officers">
+                                 <head>Of the Army in <hi>England.</hi>
+                                 </head>
+                                 <item>Collonel <hi>Whaley,</hi> as Commissary Ge<g ref="char:EOLhyphen"/>neral of the horse, 273<abbr>
+                                       <hi>l</hi>
+                                    </abbr>, 15<abbr>
+                                       <hi>s</hi>
+                                    </abbr>, <hi>per an,</hi> as Collonel of horse, 474<abbr>
+                                       <hi>l</hi>
+                                    </abbr>, 105, besides o<g ref="char:EOLhyphen"/>ther advantages in the Regiment; as one of the Major Generals of the Counties, 666<abbr>
+                                       <hi>l</hi>
+                                    </abbr>, 13<abbr>
+                                       <hi>s</hi>
+                                    </abbr>, 4<abbr>
+                                       <hi>d</hi>
+                                    </abbr> in all 1414<abbr>
+                                       <hi>l</hi>
+                                    </abbr>, 18<abbr>
+                                       <hi>s</hi>
+                                    </abbr>, 4<hi>
+                                       <abbr>l</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Grosvenor</hi> as Quarter<g ref="char:EOLhyphen"/>master General 419<abbr>
+                                       <hi>l</hi>
+                                    </abbr>, 10<hi>
+                                       <abbr>s.</abbr> per annum</hi> and its said hath Captain of Horse pay, and the better to carry it in the choise at <hi>Westminster;</hi> the souldiers were bid pull off their red-coats and put on others, and to give their Vote for him, which is con<g ref="char:EOLhyphen"/>trary to Article 18th. of the old decayed <hi>Instrument of Government,</hi> which allows none that is not worth 200<abbr>
+                                       <hi>l.</hi>
+                                    </abbr> to choose Parliament men.</item>
+                                 <item>
+                                    <hi>George Downing</hi> as Scoutmaster Ge<g ref="char:EOLhyphen"/>neral 365<hi>
+                                       <abbr>l.</abbr> per annum,</hi> one of the Tel<g ref="char:EOLhyphen"/>lers in the Exchequer, 500<abbr>
+                                       <hi>l.</hi>
+                                    </abbr> in all 865<hi>
+                                       <abbr>l</abbr>, per annum,</hi> its said, he hath the Captains pay of a Troop of horse; formerly Scout<g ref="char:EOLhyphen"/>master against Cavaleers and Mosse troopers, but now against the Saints, and sends spyes amongst the Churches.</item>
+                                 <item>
+                                    <hi>Mr Marieth</hi> as Judge Advocate of the Army, 273<abbr>
+                                       <hi>l.</hi>
+                                    </abbr> 15<hi>
+                                       <abbr>s.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Captain Blackwell</hi> as Treasurer of the Army 600<abbr>l.</abbr> per an.</item>
+                                 <item>
+                                    <hi>Collonel Ingoldsby</hi> as <hi>Collonel</hi> of horse 474<abbr>l.</abbr> 10<abbr>s.</abbr> per an, beside other advanta<g ref="char:EOLhyphen"/>ges in the Regiment he is Protectors (so called) kinsman, and will make no scru<g ref="char:EOLhyphen"/>ple to do what ever he will have him.</item>
+                                 <item>Collonel <hi>Hacker</hi> as Collonel of horse the same pay, and advantages in the Re<g ref="char:EOLhyphen"/>giment.</item>
+                                 <item>Collonel <hi>Winthrop</hi> of horse the same,</item>
+                                 <item>Collonel <hi>Robert Lilburn</hi> as Collonel of horse, and 666<abbr>l.</abbr> 13<abbr>s.</abbr> 4<abbr>d.</abbr> as one of the Major Generals, is in all 1141<abbr>l.</abbr> 3<abbr>s.</abbr> 4<abbr>d.</abbr>
+                                 </item>
+                                 <item>Collonel <hi>Berry</hi> as collonel of horse, and one of the Major Generals the like pay,</item>
+                                 <item>Major <hi>Packer,</hi> as collonel of horse, and Major General, the like advantage,</item>
+                                 <item>Collonel <hi>Goff,</hi> as collonel of horse, and Major General the like; This is he that with collonel <hi>White,</hi> brought the soldiers, and turned the honest party re<g ref="char:EOLhyphen"/>maining behind in the little Parliament out of doores,</item>
+                                 <item>Collonel <hi>Bridges</hi> as collonel of horse and a Major General the same advantage with the others, this is he of whom its re<g ref="char:EOLhyphen"/>ported dealt treacherously with his col<g ref="char:EOLhyphen"/>lonel <hi>Okey</hi> to get his place.</item>
+                                 <item>Majoy <hi>Hains,</hi> as Major of <hi>Fleetwoods</hi> Regiment of horse, 358<abbr>l.</abbr> 18<abbr>s</abbr> 4<abbr>d.</abbr> and as a Major <hi>Generall</hi> 666<abbr>d.</abbr> 13<abbr>s.</abbr> 4<abbr>d.</abbr> in all, 102 5<abbr>l.</abbr> 1. 1<abbr>s.</abbr> 8<abbr>d.</abbr> per an.</item>
+                                 <item>Major <hi>Buller</hi> of horse, and as major generall the same advantage.</item>
+                                 <item>Major <hi>Wareing,</hi> if not Major of horse he is Captain of the County Troop, and a farmer of the Excise in the country</item>
+                                 <item>Captain <hi>Baines</hi> as Captain of horse, 273<abbr>l</abbr>, per an, beside other advantages in the Troop, as one of the committee of Preservation of the exercise and custome 300<abbr>l</abbr>, in all 573<abbr>l</abbr>, per an.</item>
+                                 <item>Captain <hi>Fox</hi> captain of horse and go<g ref="char:EOLhyphen"/>vernor of <hi>Pendennis Castle</hi> he maryed Protectors (so called) Kinswoman.</item>
+                                 <item>Captain <hi>Scotten,</hi> Captain of horse 273<abbr>l.</abbr> per an, beside other advantages in the Troop.</item>
+                                 <item>Captain <hi>Lilburn</hi> of horse, the like ad<g ref="char:EOLhyphen"/>vantage.</item>
+                                 <item>Major <hi>Jenkins</hi> (so called) captain of a Troope of horse, the like advantage</item>
+                              </list>
+                              <list type="list_of_officers">
+                                 <pb n="12" facs="tcp:115271:7"/>
+                                 <head>Officers belonging to the Regi<g ref="char:EOLhyphen"/>ments of horse in <hi>Ireland.</hi>
+                                 </head>
+                                 <item>Collonel <hi>Reynolds,</hi> as Commissary ge<g ref="char:EOLhyphen"/>neral of horse, 273<abbr>l.</abbr> per an, as coll. of horse, 474<abbr>l.</abbr> 10<abbr>s.</abbr> in all 747<abbr>l.</abbr> 10<abbr>s.</abbr> per, an. And is now General of the English Army under the dispose of the Protectors Bro<g ref="char:EOLhyphen"/>ther and confederate cardinal Mazarine in <hi>France</hi> and is one of the new made Knights.</item>
+                                 <item>Collonel <hi>Zenchy</hi> as collonel of horse, 474<abbr>l.</abbr> 10<abbr>s.</abbr> per an. beside other advanta<g ref="char:EOLhyphen"/>ges, And lives much in <hi>Fleetwoods</hi> house.</item>
+                                 <item>Sr. <hi>Theophilous Jones,</hi> as Major of horse, 358<abbr>l.</abbr> 18<abbr>s.</abbr> 4<abbr>d.</abbr> per an. besides other advantages.</item>
+                                 <item>Major <hi>Morgan</hi> of <hi>Fleetwoods</hi> Regiment the same.</item>
+                                 <item>Major <hi>Owen,</hi> as Major of horse the same.</item>
+                                 <item>Major <hi>Redman,</hi> as Major of horse the like.</item>
+                                 <item>Collonel <hi>Abbot</hi> collonel of <hi>Dragoones.</hi>
+                                 </item>
+                              </list>
+                              <list type="list_of_officers">
+                                 <head>Officers belonging to the Regi<g ref="char:EOLhyphen"/>ments of foot in <hi>England,</hi> that sat in the House.</head>
+                                 <item>Collonel <hi>Baxter,</hi> as captain of a foot company, 146<abbr>l.</abbr> per an. besides other ad<g ref="char:EOLhyphen"/>vantages in the company as Major Gene<g ref="char:EOLhyphen"/>ral of <hi>Middlesex,</hi> 666<abbr>l.</abbr> 13<abbr>s</abbr> 4<abbr>d.</abbr> as Lieute<g ref="char:EOLhyphen"/>nant of the Tower. 250<abbr>l.</abbr> The benefit of ten Warders pay who had a lively hood by it, he having so procured that as they dye, or are otherwise laid aside, the 200<abbr>l.</abbr> per an, which paid them, comes in to his pocket, besides a fee, or fine imposed upon all persons, brought as prisoners into the Tower, according to their quality And hath the benefit of the wharfe, and let<g ref="char:EOLhyphen"/>ting of houses in the Tower and severall other advantages, which are oppressive, amounting to in all (as is conceived) a<g ref="char:EOLhyphen"/>bout, 2000<abbr>l</abbr>, per an: He is one of the new made Knights, and one of the commissio<g ref="char:EOLhyphen"/>ners for suppressing the Printing presses as the Bishops Panders in the Kings days, one that makes men offenders, and casts them into prison for words, he hath drawn forth from them in examining a<g ref="char:EOLhyphen"/>gainst themselves: A Lyar, one that deals more injuriously with the Lords people, keeping many times their neerest relati<g ref="char:EOLhyphen"/>ons and friends from coming to them; (witnesse that faithfull friend to the cause of God, and his People, Major general <hi>Overton</hi> amongst others) then Heathens <hi>Acts</hi> 24.23. and yet since this, is he taken in to be a member of <hi>Mr Griffiths</hi> church.</item>
+                                 <item>Collonel <hi>Pride</hi> as collonel of foot, 365<abbr>l</abbr>
+                                    <hi>per annum,</hi> besides other advantages; and hath also great advantage by brewing for the State, one of the simple new made Knights, and his daughter married to the Protectors Nephew,</item>
+                                 <item>Collonel <hi>Clark</hi> as collonel of foot 365<abbr>l</abbr>
+                                    <hi>per annum,</hi> as a commissioner of the Ad<g ref="char:EOLhyphen"/>miralty 500<abbr>l</abbr>
+                                    <hi>per an,</hi> in all 865<abbr>l.</abbr>
+                                    <hi>per ann.</hi> and one of the committe of the Army, he married <hi>Thurloes</hi> sister, and is deeply en<g ref="char:EOLhyphen"/>gaged to uphold the Court Interest.</item>
+                                 <item>Collonel <hi>Salmon</hi> as of foot and com<g ref="char:EOLhyphen"/>missioner of the Admiralty 865<abbr>l</abbr>
+                                    <hi>per an.</hi>
+                                 </item>
+                                 <item>Liev. collonel <hi>Kelsey,</hi> as commissioner of the Admiralty 500<abbr>l</abbr>
+                                    <hi>per annum,</hi> as one of the Major generals 666<abbr>l.</abbr> 13<abbr>s.</abbr> 4<abbr>d.</abbr> in all 1166<abbr>l.</abbr> 13<abbr>s.</abbr> 4<abbr>d</abbr>, besides the government of <hi>Dover</hi> castle,</item>
+                                 <item>Collonel <hi>Biscoe,</hi> as of foot 365<abbr>l</abbr>
+                                    <hi>per an<g ref="char:EOLhyphen"/>num,</hi> this is he who stood at the Parlia<g ref="char:EOLhyphen"/>ment Doore with Collonel <hi>Mils</hi> to keep all the members out who had not Tickets</item>
+                                 <item>Collonel <hi>White</hi> of foot the like pay, be<g ref="char:EOLhyphen"/>side other advantages in the Regiment as the other; this is he who with collonel
+<pb n="13" facs="tcp:115271:7"/>
+                                    <hi>Goff</hi> brought souldiers and turned the members left behind in the little Parlia<g ref="char:EOLhyphen"/>ment out of doores,</item>
+                                 <item>Captain <hi>Howard,</hi> formerly captain of the Lifeguard, as col. of foot 365<abbr>l</abbr>, <hi>per annum,</hi> and captain of a county troop 100<abbr>l.</abbr> in all 465<abbr>l</abbr>, <hi>per annum,</hi> besides the government of <hi>Berwick, Carlisle</hi> and <hi>Tinmouth,</hi> a printed book sayes he is a <hi>Major</hi> general.</item>
+                                 <item>Major <hi>Sanders</hi> of foot, and governour of <hi>Plimouth</hi> Fort, and <hi>Isleland.</hi>
+                                 </item>
+                                 <item>Captain <hi>Wagstaff</hi> as Captain of foot, 146<abbr>l</abbr> besides the advantage of his compa<g ref="char:EOLhyphen"/>ny, and captain of a county Troop 100<abbr>l</abbr>, in all 246<abbr>l</abbr>, <hi>per annum.</hi>
+                                 </item>
+                              </list>
+                              <list type="list_of_officers">
+                                 <head>Officers belonging to the Regi<g ref="char:EOLhyphen"/>ments of Foot in <hi>Scotland</hi> that sat in the House.</head>
+                                 <item>Collonel <hi>Fitz,</hi> as col. of foot 365<abbr>l</abbr>, <hi>per annum,</hi> and Governour of <hi>Innernesse.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Mitchel</hi> the like pay, besides other advantages in the Regiment.</item>
+                                 <item>Collonel <hi>Talbot</hi> col. of foot the like.</item>
+                                 <item>Collonel <hi>Cooper,</hi> as col. of two Regi<g ref="char:EOLunhyphen"/>ments of foot, one in <hi>Scotland,</hi> the other in <hi>Ireland</hi> 720<hi>
+                                       <abbr>l.</abbr> per annum,</hi> besides other advantages in the Regiment, and the go<g ref="char:EOLhyphen"/>verment of <hi>Carrickesergus,</hi> and a great part of the Country in the North of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> its reported he both three or foure places.</item>
+                                 <item>Judge Advocate <hi>Whaly</hi> of the Army in <hi>Scotland</hi> 273<abbr>
+                                       <hi>l.</hi>
+                                    </abbr> 15<hi>
+                                       <abbr>s.</abbr> per annum,</hi> beside o<g ref="char:EOLhyphen"/>ther advantages, he is Commissary Gene<g ref="char:EOLhyphen"/>ral <hi>Whales</hi> brother.</item>
+                              </list>
+                              <list type="list_of_officers">
+                                 <head>Officers belonging to the Regi<g ref="char:EOLhyphen"/>ments of foot in <hi>Ireland,</hi> who either did or might sit in the House; and such as are in civill employment there.</head>
+                                 <item>Sir <hi>Hardresse Waller,</hi> as Major Gene<g ref="char:EOLhyphen"/>ral of the Army 365<hi>
+                                       <abbr>l.</abbr> per annum,</hi> as col. of foot 365. in all 730<hi>
+                                       <abbr>l.</abbr> per annum,</hi> be<g ref="char:EOLhyphen"/>sides other advantages.</item>
+                                 <item>Collonel <hi>Huson,</hi> col. of foot, and Go<g ref="char:EOLhyphen"/>vernour of <hi>Dublin,</hi> with other advan<g ref="char:EOLhyphen"/>tages.</item>
+                                 <item>Collonel <hi>Fooke,</hi> col. of foot, and Go<g ref="char:EOLhyphen"/>vernour of <hi>Droghedah.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Henry Ingoldsby,</hi> a col. of foot besides other advantages, and is the Pro<g ref="char:EOLhyphen"/>tectors (so called) kinsman.</item>
+                                 <item>Collonel <hi>Sadler,</hi> col. of foot, besides other advantages.</item>
+                                 <item>Sr. <hi>Robert King,</hi> Commissary of the Musters, a place of good advantage, he is lately deceased.</item>
+                              </list>
+                              <list type="list_of_officers">
+                                 <head>These following Persons for <hi>Ireland,</hi> (but one) have the names of Officers but are none.</head>
+                                 <item>Collonel <hi>Bridges,</hi> Captain of a Foot company.</item>
+                                 <item>Lievt. coll. <hi>Newbrough.</hi>
+                                 </item>
+                                 <item>Lievt. col. <hi>Berrisford.</hi>
+                                 </item>
+                                 <item>Lievt. col. <hi>Treyle</hi>
+                                 </item>
+                                 <item>Major <hi>Asten.</hi>
+                                 </item>
+                                 <item>Captain <hi>Halfie.</hi>
+                                 </item>
+                              </list>
+                              <p>Persons not thought meet to be in Command, though they much desire it; and are of such poore prin<g ref="char:EOLhyphen"/>ciples, &amp; so unfit to make Rulers off, as they would
+<pb n="14" facs="tcp:115271:8"/> not have been set with the dogs of the flock (as <hi>Job</hi> speaks in another case, <hi>Job</hi> 30.1.) If the Army and o<g ref="char:EOLhyphen"/>thers who once pretended to be honest, had kept close to their former good and honest principles.</p>
+                              <list type="list_of_officers">
+                                 <item>Collonel <hi>Jephson,</hi> a man of no better principles than the former, but for his good service in Voting for a King, is late<g ref="char:EOLhyphen"/>ly sent Embassador to <hi>Sweden.</hi>
+                                 </item>
+                                 <item>Mr. <hi>Vincent Gookin,</hi> one of the letters of Land in <hi>Ireland,</hi> 300<hi>
+                                       <abbr>l.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Mr. <hi>Ralph King,</hi> the like place and sal<g ref="char:EOLhyphen"/>lary.</item>
+                                 <item>Mr. <hi>Bice</hi> Recorder of <hi>Dublin.</hi>
+                                 </item>
+                              </list>
+                              <list type="list_of_officers">
+                                 <head>The Names of those Collonels, Lievtenant Collonels, Ma<g ref="char:EOLhyphen"/>jors, Captains, and Gover<g ref="char:EOLhyphen"/>nours of Towns, that are not of the marching Army, which sat in the House.</head>
+                                 <item>Collonel <hi>Norton,</hi> a Regiment or some companies of Foot, and Governour of <hi>Portsmouth.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Rogers.</hi> Governour of <hi>Here<g ref="char:EOLhyphen"/>ford,</hi> captain of a county troop, what companies of foot, and other advantages, is not certainly known.</item>
+                                 <item>Collonel <hi>Bingham</hi> Governor of <hi>Guern<g ref="char:EOLhyphen"/>sie.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Coppleston,</hi> hath a county Regiment, made high Sheriff for three years together, supposed worth to him 3, or 400<hi>
+                                       <abbr>l.</abbr> per annum,</hi> one of the new made Knights, and a great Cavaleer formerly.</item>
+                                 <item>Collonel <hi>Cox,</hi> captain of a county Troop, for that 100<hi>
+                                       <abbr>l.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Ireland,</hi> captain of a county Troop.</item>
+                                 <item>Collonel <hi>Iohn Gorges,</hi> captain of a county Troop.</item>
+                                 <item>Major <hi>Hawksworth,</hi> Governour of <hi>Warwick Castle,</hi> one or two companies of Foot, beside other advantages.</item>
+                                 <item>Major <hi>Bowreman,</hi> Deputy Governour of the Isle of <hi>Wight;</hi> he hath command of <hi>Sandown,</hi> and <hi>Weymouth</hi> Castles, one or two companies of foot, his other advan<g ref="char:EOLhyphen"/>tages not certainly known.</item>
+                                 <item>Captain <hi>Fiennes,</hi> hath a county troop.</item>
+                                 <item>
+                                    <hi>William Braddon,</hi> the same command and pay.</item>
+                                 <item>Captain <hi>Crofts</hi> the like.</item>
+                                 <item>Captain <hi>VVhitegreave</hi> the like.</item>
+                                 <item>Captain <hi>Ludlow</hi> the like.</item>
+                                 <item>
+                                    <hi>James Heely</hi> Lievtenant to that troop,</item>
+                                 <item>Captain <hi>Mason,</hi> Lievtenant to <hi>Here<g ref="char:EOLhyphen"/>ford</hi> troop, and would get higher, if he could; a poore inconsiderable creature, <hi>That sayes, his lord must bestow some good place upon him, or else he can not serve him.</hi>
+                                 </item>
+                              </list>
+                              <list type="list_of_governors">
+                                 <head>The Names of the Governours of Towns, Castles, and Com<g ref="char:EOLhyphen"/>manders of the Malitia for<g ref="char:EOLhyphen"/>ces in <hi>Wales,</hi> and such as have Civil imployments who sat in the House.</head>
+                                 <item>Collonel <hi>Dawkins,</hi> Governour of <hi>Car<g ref="char:EOLhyphen"/>marthen.</hi> one of the Deputy Major Ge<g ref="char:EOLhyphen"/>nerals, captain of a Malitia troop.</item>
+                                 <item>
+                                    <hi>Evan Lewis,</hi> captain of a county Troop.</item>
+                                 <item>
+                                    <hi>Hugh Price</hi> of <hi>Guerny,</hi> captain of a Malitia troop, and Governour of <hi>Red</hi> castle.</item>
+                                 <pb n="15" facs="tcp:115271:8"/>
+                                 <item>
+                                    <hi>John Price,</hi> Receiver General of South-<hi>VVales,</hi> and a great Treasurer formerly, now one of the Admiralty, or a commissi<g ref="char:EOLhyphen"/>oner of appeals.</item>
+                                 <item>
+                                    <hi>Bennet Hoskins</hi> Deputy or puny Judge in <hi>Pembrooke, Carmarthen</hi> and <hi>Cardigan</hi> shires.</item>
+                                 <item>
+                                    <hi>Griffith Bedward,</hi> hath a great place in the VVine Office at Westminster.</item>
+                                 <item>Collonel <hi>John Carter,</hi> by Judge <hi>Glyns</hi> Interest had lately 3000<abbr>
+                                       <hi>l.</hi>
+                                    </abbr> Voted him by the House, for old Arrears, to be paid out of the Prize goods.</item>
+                                 <item>Collonel <hi>James Phillips,</hi> one of the committee of the Army, what other place not known at present.</item>
+                              </list>
+                           </div>
+                           <div type="names_of_naval_officers">
+                              <head>The Names of such, who did or might sit in the House, that belong to the Admiralty and Navy.</head>
+                              <list>
+                                 <item>General <hi>Blake,</hi> as General at Sea 1095<hi>
+                                       <abbr>l.</abbr> per annum,</hi> besides other advan<g ref="char:EOLunhyphen"/>tages: lately deceased.</item>
+                                 <item>Mr. <hi>Hopkins</hi> one of the Commission<g ref="char:EOLhyphen"/>ers of the Admiralty, 500<hi>
+                                       <abbr>l.</abbr> per annum:</hi> lately deceased.</item>
+                                 <item>Major <hi>Beak</hi> of <hi>Coventry,</hi> as Commis<g ref="char:EOLhyphen"/>sioner of the Admiralty 500<hi>
+                                       <abbr>l</abbr>, per annum.</hi>
+                                 </item>
+                                 <item>Captain <hi>Hatsell,</hi> as Commissioner of the Navie at <hi>Plymouth</hi> 300<hi>
+                                       <abbr>l.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Mr. <hi>Smith,</hi> as Commissioner of the Na<g ref="char:EOLhyphen"/>vie the like.</item>
+                                 <item>Collonel <hi>Rouse</hi> Vice Admiral of the North and South coast of <hi>Cornwall,</hi> a place of good value.</item>
+                                 <item>
+                                    <hi>Charles George Cock,</hi> as one of the Judges of the Admiralty 500<hi>
+                                       <abbr>l.</abbr> per annum.</hi> And as a Commissioner of the Prerogative Court 300<abbr>
+                                       <hi>l.</hi>
+                                    </abbr> in all 800<hi>
+                                       <abbr>l</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Major <hi>Audley,</hi> as an Officer of the Ordnance neer 300<hi>
+                                       <abbr>l.</abbr> per annum,</hi> Captain of a County Troop 100<hi>
+                                       <abbr>l.</abbr> per annum,</hi> and Deputy Major General to <hi>Kelsey.</hi>
+                                 </item>
+                              </list>
+                           </div>
+                           <div type="names_of_Scottish_civilians">
+                              <head>The names of such who have Civill Employments who serve for <hi>Scotland.</hi>
+                              </head>
+                              <list>
+                                 <item>Lord <hi>Broghill,</hi> as President of the Council there, 1000<hi>
+                                       <abbr>l.</abbr> per annum,</hi> besides other advantages, as Collonel of Horse in <hi>Ireland</hi> 474<abbr>
+                                       <hi>l</hi>
+                                    </abbr> 10<abbr>
+                                       <hi>s.</hi>
+                                    </abbr> in all 1474<abbr>
+                                       <hi>l.</hi>
+                                    </abbr> 10<abbr>
+                                       <hi>s.</hi>
+                                    </abbr> he was formerly not thought meet to be tru<g ref="char:EOLhyphen"/>sted with the government of a Town in <hi>Ireland,</hi> because looked upon as an old Protestant, and no thorough friend to the honest Interest, yet through the late defection is now received into this great Trust.</item>
+                                 <item>Collonel <hi>VVhetham,</hi> as one of the council in <hi>Scotland,</hi> its supposed 500<hi>
+                                       <abbr>l.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Sir <hi>VVilliam Rhodes,</hi> as one of the council the like.</item>
+                                 <item>
+                                    <hi>Mr. Disbrow</hi> Major General <hi>Disbrows</hi> brother, as one of the council, the same sallary.</item>
+                                 <item>
+                                    <hi>Mr. Smith</hi> a Judge in <hi>Scotland</hi> 600<hi>
+                                       <abbr>l.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Mr <hi>Swinton,</hi> the like place and sallary. Judge <hi>Lawrence</hi> the like</item>
+                                 <item>Sir <hi>Iames Mackdowell,</hi> one of the commissioners at <hi>Leeth,</hi> about 300<hi>
+                                       <abbr>l.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Henry Markham,</hi> one of the commissioners for letting lands in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> 300<hi>
+                                       <abbr>l</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Sir <hi>Iohn VVeimes</hi> Tenant to the State of the Salt-pans neer <hi>Leeth,</hi> and hath a good advantage thereby.</item>
+                              </list>
+                           </div>
+                           <div type="names_of_English_civilians">
+                              <head>Others serving for <hi>England</hi> Sitting in the House, that have Civil employments and Sallaries from the State.</head>
+                              <list>
+                                 <pb n="16" facs="tcp:115271:9"/>
+                                 <item>Sir <hi>William Roberts,</hi> as one of the Committee for preservation of Excise and Customes 300<hi>
+                                       <abbr>l.</abbr> per annum,</hi> as Comptrol<g ref="char:EOLunhyphen"/>ler of the Exchequer, 600<abbr>
+                                       <hi>l</hi>
+                                    </abbr> in all 900<hi>
+                                       <abbr>l.</abbr> per annum,</hi> he is a commissioner at the Wine Office, and one of the committee of the Army.</item>
+                                 <item>
+                                    <hi>Dennis Bond,</hi> as Comptroller of the receipts of the Exchequer 500<hi>
+                                       <abbr>l.</abbr> per an<g ref="char:EOLhyphen"/>num.</hi>
+                                 </item>
+                                 <item>Captain <hi>Stone,</hi> as Teller in the Ex<g ref="char:EOLhyphen"/>chequer, 500<hi>
+                                       <abbr>l.</abbr> per annum,</hi> and great fees beside; as Receiver general of the Tax<g ref="char:EOLunhyphen"/>es 300, as Comptroller of the Excise and Customs 400<abbr>
+                                       <hi>l.</hi>
+                                    </abbr> in all 1200<hi>
+                                       <abbr>l.</abbr> per an<g ref="char:EOLhyphen"/>num,</hi> he is a commissioner at the Wine Office, and one of the committee of the Army besides.</item>
+                                 <item>
+                                    <hi>Gervis Bennet,</hi> one of the committee of preservation of Excise and Customes, 300<hi>
+                                       <abbr>l.</abbr> per annum,</hi> hath also a great place in the Wine Office, and is one of the committee of the Army.</item>
+                                 <item>Mr. <hi>Vpton,</hi> as one of the commissioners of the Customes, supposed worth neere 800<hi>
+                                       <abbr>l.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Mr. <hi>Nowell,</hi> Scrivener, partner with <hi>Thurloe</hi> in the Post Office, supposed of great advantage, and is deeply engaged with the Court Interest.</item>
+                                 <item>Collonel <hi>Blake</hi> Receiver of the Reve<g ref="char:EOLhyphen"/>news 300<hi>
+                                       <abbr>l.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Mr. <hi>Bedford,</hi> the like place and sallary</item>
+                                 <item>Mr. <hi>Butler</hi> the like.</item>
+                                 <item>Mr. <hi>Hildslie</hi> Commissioner of the Pre<g ref="char:EOLunhyphen"/>rogative Office, 300<hi>
+                                       <abbr>l.</abbr> per annum,</hi> and one of the Committee of the Army.</item>
+                                 <item>Mr. <hi>Lucy</hi> the like places and sallarie:</item>
+                                 <item>
+                                    <hi>Christopher Lister,</hi> one of the Tellers in the Exchequer, 500<hi>
+                                       <abbr>l.</abbr> per annum.</hi>
+                                 </item>
+                                 <item>Collonel <hi>Tho. Gorges,</hi> one of the Com<g ref="char:EOLhyphen"/>missioners for the New building, his ad<g ref="char:EOLunhyphen"/>vantage thereby cannot yet be known, till he and his brethren have rackt the con<g ref="char:EOLhyphen"/>sciences, flayed off the skings, and broken the bones of the poore people, making them swear against themselves.</item>
+                                 <item>Sir <hi>John Thoroughgood,</hi> one of the Trustees for disposing Augmentations to<g ref="char:EOLhyphen"/>wards Ministers maintenance, his sallary not well known.</item>
+                                 <item>Collonel <hi>James Chadwick,</hi> one of the Judges of the Peverell court at <hi>Notting<g ref="char:EOLhyphen"/>ham,</hi> an old oppressive office lately re<g ref="char:EOLhyphen"/>vived.</item>
+                                 <item>Mr. <hi>Cary</hi> of <hi>Westminster</hi> Commissio<g ref="char:EOLhyphen"/>ner at <hi>Habberdashers</hi> hall, and Deputy Steward of <hi>VVestminster,</hi> lately decea<g ref="char:EOLhyphen"/>sed.</item>
+                                 <item>
+                                    <hi>Anthony Smith,</hi> Master of an Hospi<g ref="char:EOLhyphen"/>tall, and a Register, supposed worth 200 pounds <hi>per annum</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert</hi> or <hi>VVill. Fenwick</hi> Master of an Hospitall.</item>
+                                 <item>
+                                    <hi>Mr. Thomas Mackworth</hi> farmer of the Excise in <hi>Lancashire,</hi> by speciall Or<g ref="char:EOLhyphen"/>der.</item>
+                                 <item>Master <hi>Clud</hi> one of the Committee of the Army.</item>
+                                 <item>
+                                    <hi>Iohn St. Aubin,</hi> a sallary man, but what place he hath, I cannot learn.</item>
+                              </list>
+                           </div>
+                           <div type="names_of_the_Protectors_kinsmen">
+                              <head>The Names of the Protector (so called) his Sons, Kin<g ref="char:EOLhyphen"/>dred, Servants and others, who have received favours from him, and thereby engaged for his Interest.</head>
+                              <list>
+                                 <item>Mr. <hi>Richard Cromwell</hi> his eldest sonne Chancellor of <hi>Oxford.</hi>
+                                 </item>
+                                 <item>Mr. <hi>Claypole</hi> his son in law, he marri<g ref="char:EOLhyphen"/>ed his daughter, and is Master of the Horse, a place of great advantage.</item>
+                                 <item>Collonel <hi>Iohn Iones,</hi> married the Pro<g ref="char:EOLhyphen"/>tectors Sister, and is governour of the Isle of <hi>Anglesie.</hi>
+                                 </item>
+                                 <pb n="17" facs="tcp:115271:9"/>
+                                 <item>Captain <hi>Nicholas</hi> Maried Protectors Niece and is Governour of his Castle at <hi>Chepstow,</hi> hath one or two companies of foot beside other advantages, is also cap<g ref="char:EOLhyphen"/>tain of a Milita Troope, and Treasurer Generall of all <hi>South VVales.</hi>
+                                 </item>
+                                 <item>Captain <hi>Beake</hi> maryed his Neece and is Captain of his lifeguard of horse, 511<abbr>l</abbr> per. an.</item>
+                                 <item>Sr. <hi>Francis Russell,</hi> whose daughter the Protectors second son maried: as Cham<g ref="char:EOLhyphen"/>berlain of <hi>Chester,</hi> formerly by the Earls of Derby supposed to be worth 500<abbr>l.</abbr> per an.</item>
+                                 <item>
+                                    <hi>Edmund Giles</hi> maryed his kinswoman and is one of the masters of the <hi>Chancery</hi> in <hi>Ordinary</hi> a place of great value.</item>
+                              </list>
+                           </div>
+                           <div type="names_of_the_Protectors_servants">
+                              <head>The Names of his servants Sit<g ref="char:EOLhyphen"/>ing in the House.</head>
+                              <list>
+                                 <item>Mr. <hi>Maidstone</hi> steward of his house, a place of great advantage.</item>
+                                 <item>Mr. <hi>Waterhouse</hi> Steward of his lands, a place of great profit.</item>
+                                 <item>Sr. <hi>Edward Herbert</hi> entrusted as an o<g ref="char:EOLhyphen"/>verseere or Baily of his Lands in <hi>VVales</hi>
+                                 </item>
+                              </list>
+                           </div>
+                           <div type="names_of_the_Protectors_unrewarded_kinsmen">
+                              <head>The Names of <hi>Protector</hi> (so called) his Kinsmen not known to have any place as yet, that sat in the House.</head>
+                              <list>
+                                 <item>Mr. <hi>Disbrow,</hi> Major General <hi>Dis<g ref="char:EOLhyphen"/>browes</hi> sonne.</item>
+                                 <item>Mr. <hi>Henry Cromwell.</hi>
+                                 </item>
+                                 <item>Mr. <hi>Gobert Barrington.</hi>
+                                 </item>
+                                 <item>Mr: <hi>Kichard Hampden.</hi>
+                                 </item>
+                                 <item>Sr. <hi>John Trevor.</hi>
+                                 </item>
+                                 <item>Mr. <hi>Trever</hi> his son.</item>
+                                 <item>
+                                    <hi>Mr. Francis Ingoldsby.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Mr. Edm. Dunch.</hi>
+                                 </item>
+                                 <item>Mr. <hi>Dunch,</hi> who, and the Protectors eldest son married two Sisters.</item>
+                                 <item>Sir <hi>Richard Everard,</hi> a good Hunts<g ref="char:EOLhyphen"/>man.</item>
+                                 <item>Mr. <hi>Robert Williams</hi> of <hi>Wales.</hi>
+                                 </item>
+                              </list>
+                              <p>
+                                 <hi>Not one of these, such men of Principles as was for<g ref="char:EOLhyphen"/>merly pretended to be en<g ref="char:EOLhyphen"/>deavoured after; neither in<g ref="char:EOLhyphen"/>deed are the greatest part of the whole Convention any better. For which carriage of things, I am confidently perswaded, the Lord by one dispensation or other, will make the man in Power and his Councellors hereunto a<g ref="char:EOLhyphen"/>shamed; for if this practise be good, the former wherein the Lord to set his Seale of Approbation, by his eminent and glorious presence with them which was contrary hereunto, was evill.</hi>
+                              </p>
+                           </div>
+                           <div type="names_of_others">
+                              <head>The Names of others, sitting in the House, having Engage<g ref="char:EOLhyphen"/>ments: from the Protector upon them.</head>
+                              <list>
+                                 <item>Aderman <hi>Pack,</hi> one of the new made Knights; for the good service he did the Protector and his Family, by his present<g ref="char:EOLhyphen"/>ing the Bill for Kingship; Its said he ob<g ref="char:EOLhyphen"/>tained from the Protector by his Petition
+<pb n="18" facs="tcp:115271:10"/> or request, a discharge from an account of 16000. pounds, which he and the rest of the then commissioners were lyable to make good, for so much run out of Cash, in the time of their Commission for the Customes.</item>
+                                 <item>Aderman <hi>Foot,</hi> a new made Knight.</item>
+                                 <item>Alderman <hi>Dickinson</hi> of <hi>York,</hi> one of the new made Knights.</item>
+                                 <item>
+                                    <hi>Antho. Nichols,</hi> one of the eleven Members, High Sheriff of <hi>Cornwall,</hi> and as is reported, lately received a reward from <hi>O. P.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Mr. Kiffin,</hi> who having received former courtesies by meanes of <hi>O. P.</hi> and his confederates, as to prohibited goods, and in other respects, is there by engaged to be<g ref="char:EOLhyphen"/>come his vassall, and to command a com<g ref="char:EOLhyphen"/>pany of foot in the new militia to support his Tyrany, whilest the Saints and others are imprisond for opposing it.</item>
+                                 <item>Mr. <hi>Lawrence</hi> the president of the coun<g ref="char:EOLhyphen"/>cill his son, who must do as his father.</item>
+                                 <item>Mr. <hi>VValer,</hi> Sr. <hi>Hadress VValers</hi> son, and is naturally engaged to uphold his fa<g ref="char:EOLhyphen"/>thers interest.</item>
+                                 <item>Mr. <hi>Keeling</hi> one of the masters of the Trinity house, and his relations at Court.</item>
+                              </list>
+                           </div>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>If there be any mistakes (as it is very probable there is) in the Computation of the forementioned Offices, Places, or Sallaries, you may please to understand there was not in the least a desire, or designe to doe any thing untruly thereby, to make the men or things appear worse than in truth they are; there having been all the ways and means that with Honesty, Wisdome and safety might be used to attain a right understanding in every particular; but if through any failor herein, those who are most con<g ref="char:EOLhyphen"/>cerned do finde themselves agrieved, knowing they are not in every punctilio dealt right with: The onely way for their own vindication and satisfaction of others, will be to give a more perfect and brief account hereof them<g ref="char:EOLhyphen"/>selves, which with much ease they may doe in a little time. These things thus laid down being reported of them.</p>
+               <div type="queries">
+                  <pb n="19" facs="tcp:115271:10"/>
+                  <head>Ʋpon the foregoing Premises, it is further Proposed and Queried.</head>
+                  <p n="1">1. Whether the Self-denying Ordinance made by the long Parliament were in force, or minded by these Gen<g ref="char:EOLhyphen"/>tlemen, a thing some of them so approved off, and were instrumentall in that day, to promote and carry on: May it not be desired they would better consider, and put it in practice when they meet again, seeing they have re<g ref="char:EOLhyphen"/>vived all Acts and Ordinances, not contrary to their mo<g ref="char:EOLhyphen"/>del of Government, <hi>alias</hi> Instrument of Bondage to the English Nation.</p>
+                  <p n="2">2. Whether men standing under such mercenary and self-interessed Obligations, and dependencies upon a single Person, as these men do; and who like so many horse-leeches have sucked and drawn into themselves, the expected fruit of all the blood and Treasure expen<g ref="char:EOLhyphen"/>ded in the late War, against lesse Tyranny and Oppressi<g ref="char:EOLhyphen"/>on in the King, than they have now settled in their Pro<g ref="char:EOLhyphen"/>tector, are fit Persons to be Legislators, Law-makers, framers of Governments, and Oaths; and Leviers of mo<g ref="char:EOLhyphen"/>ney on the People? And whether in the eye of Reason, any other can be expected from them, but that they will endeavour all they can to uphold that Interest they are hyred to serve, and whereby their own Incomes and Sal<g ref="char:EOLhyphen"/>laries may be continued? For doth not the Scripture say <hi>Deut.</hi> 16.18. <hi>That a gift blindes the eyes of the wise, and per<g ref="char:EOLhyphen"/>verts the words of the Righteous:</hi> And Prov. 17.8. <hi>A gift is a precious stone in the eyes of him that hath it, and whe<g ref="char:EOLhyphen"/>thersoever it turns it prospers.</hi> And Prov. 18.16. <hi>A mans gift maketh way for him, and brings him before great men.</hi>
+                  </p>
+                  <pb n="20" facs="tcp:115271:11"/>
+                  <p n="3">3. Whether for more than one hundred years last past, it hath been heard or known, that any number of Englishmen sitting in that House, did in any wise Con<g ref="char:EOLhyphen"/>sent (especially in a time of Peace) as these unworthy Persons have lately done; to levy a Tax for three years together upon the People; and as if that were not e<g ref="char:EOLhyphen"/>nough, to order a three months Tax to be paid twice o<g ref="char:EOLhyphen"/>ver? Together with the Excise (a Tax so much abhorr'd and created onely by the necessity of War) which with the Customs are imposed in <hi>perpetuum</hi> upon the Nation, and made an Hereditary and standing Revenue to the Crown?</p>
+                  <p n="4">4. What equality or Justice is there in that Act of U<g ref="char:EOLhyphen"/>nion, whereby the <hi>Scots</hi> Nation comes to be Incorpor<g ref="char:EOLhyphen"/>ated with this Nation; so as to have equall Priviledges and Power, by their Interessed Mercenary men (as their present Trustees are) to become Lawgivers, framers of Governments and Oaths, and leviers of Taxes of the Free People of the English Nation, who were lately at so great cost and charges in reducing and bringing them under, that they might not be in a capacity to hurt or dammage them? And whether these Gentlemen sent from the a<g ref="char:EOLhyphen"/>foresaid Nation, have not so far over-ruled, as to save themselves by putting the burthen on the English? ha<g ref="char:EOLhyphen"/>ving raised upon the English Nation, the three years Tax from Thirty thousand pounds <hi>per</hi> moneth, to Thirty five thousand, whereby the Scottish Nation are reduced from ten thousand pounds <hi>per</hi> moneth to six, Is the divident equall? Is not the Scottish Nation undervalued as of lit<g ref="char:EOLhyphen"/>tle; which formerly bore so high: Doth not the English loose and suffer by that Nation? And were not better to be without it? And all such Gentlemen in Parliament, that have no more sence or Recentment, what Burthens
+<pb n="21" facs="tcp:115271:11"/> they lay on this Nation, so they may keep their Places and Sallaries.</p>
+                  <p n="5">5ly. Whether the Judges and Commissioners of the Chancery together with such who have great places in Administring of Law to the people, and very great Ad<g ref="char:EOLhyphen"/>vantages, and profits thereby, be not likewise to be ex<g ref="char:EOLhyphen"/>cepted against as to Parliamentary Trust. It being most sure that they will hardly be disposed to make such laws and governments, as may diminish the splendor, or Mercinariness of their profession, seeing they are known to be men, who from time to time, have alwayes advan<g ref="char:EOLhyphen"/>ced their own Trade, as their present height doth wit<g ref="char:EOLhyphen"/>ness, who to the great dishonor of the Nation, while they profess themselves the ministers of Justice, and Righte<g ref="char:EOLhyphen"/>ousnesse to the people, doe under that pretence, greaten, and inrich themselves, in the oppressions, and miseryes of the people.</p>
+                  <p n="6">6ly. And why is it that the despencers of the Law as well as the<note n="*" place="margin">Free preaching the Gospell and knowledg of God is becom a crime rendering men uncapa<g ref="char:EOLhyphen"/>ble to sit in the Parlia<g ref="char:EOLhyphen"/>ment.</note> Teachers of the Gospell should not be made uncapable to sit, and act in Parliament, seeing there also is an old musty act to prohibit them so to do: But it seems their envy at the free dispenceing of the Gospell on the one hand, and their gain by the Law on the other; hin<g ref="char:EOLhyphen"/>ders them that they cannot see or take notice of it.</p>
+                  <p n="7">7ly. The like may be queried concerning the sword<g ref="char:EOLhyphen"/>mens capacity to sit whilest in pay; especially to decree, and vote, in levying of mony for three yeares together, and of other unheard off, oppressive wayes, devised and practised, for no other use, than to pay themselves their Wages and Sallaries, now they doe no work; unlesse it be to undo what they did before, and to reduce the well-affected people of this Nation, unto their first condition of slavery, to be ruled by meer will and pleasure?</p>
+               </div>
+            </div>
+            <div type="catalogue_of_Royalists">
+               <pb n="22" facs="tcp:115271:12"/>
+               <head>Here follows a Catalogue of the Kinglings, or the names of those Persons, who Voted for a King; The truest that as yet can be gotten, with the Names of the several Counties for which they serve.</head>
+               <list type="list_of_Royalists">
+                  <item>Bedford Shire.
+<list>
+                        <item>Mr. <hi>Samuel Bedford</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Berk Shire. <list>
+                        <item>
+                           <hi>Edmund Dunch</hi>
+                        </item>
+                        <item>
+                           <hi>John Dunch</hi>
+                        </item>
+                        <item>Mr <hi>Trumball</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Hide</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Buckingham Shire <list>
+                        <item>Lord Commis. <hi>Whitlock</hi>
+                        </item>
+                        <item>Collonel <hi>Ingoldsby</hi>
+                        </item>
+                        <item>Mr. <hi>Richard Hampden</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Francis Ingoldsby</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Cheshhire. <list>
+                        <item>
+                           <hi>Mr. Richard Leigb</hi>
+                        </item>
+                        <item>Mr. <hi>Peter Brook</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Cambridge Shire. <list>
+                        <item>
+                           <hi>John Thurlo</hi> Secretary</item>
+                        <item>Sr. <hi>Francis Russel</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Robert West</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Cornwall <list>
+                        <item>Mr. <hi>Richard Carter</hi>
+                        </item>
+                        <item>Mr. <hi>John Buller</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Cumberland. <list>
+                        <item>Captain <hi>Howard</hi>
+                        </item>
+                        <item>
+                           <hi>George Downing</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Briscoe</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Darby Shire. <list>
+                        <item>
+                           <hi>Gervas Bennet</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Devon Shire. o</item>
+                  <item>Dorcet Shire. <list>
+                        <item>Atturney General <hi>Prideaux</hi>
+                        </item>
+                        <item>
+                           <hi>Dennis Bond</hi>
+                        </item>
+                        <item>Collonel <hi>Bingham</hi>
+                        </item>
+                        <item>Collonel <hi>Fitz James</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Durham County <list>
+                        <item>Captain <hi>Thomas Lylburn</hi>
+                        </item>
+                        <item>Mr. <hi>Anthony Smith</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>York Shire. <list>
+                        <item>Doctor <hi>Bathurst</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Essex, o</item>
+                  <item>Glocester Shire. <list>
+                        <item>Captain <hi>Stone</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Hereford Shire. <list>
+                        <item>Captain <hi>Mason</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Hertford Shire. <list>
+                        <item>Earl of <hi>Salisbury</hi>
+                        </item>
+                        <item>Sir <hi>Richard Lucy</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Huntington Shire. <list>
+                        <item>Collonel <hi>Mountague</hi>
+                        </item>
+                        <item>Mr. <hi>Henry Cromwell</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Kent. o</item>
+                  <item>Leicester Shire. <list>
+                        <item>Collonel <hi>Hacker</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Lincoln Shire. <list>
+                        <item>Captain <hi>Fiennes</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Middlesex. <list>
+                        <item>Sir <hi>William Roherts</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Westminster. <list>
+                        <item>Collonel <hi>Grosvenor</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>London. <list>
+                        <item>Alderman <hi>Foot</hi>
+                        </item>
+                        <item>Alderman <hi>Pack</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Monmouth Shire. o</item>
+                  <item>Norfolk. <list>
+                        <item>Collonel <hi>Wood</hi>
+                        </item>
+                        <item>Collonel <hi>Wilton</hi>
+                        </item>
+                        <item>Major <hi>Burton</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Northampton Shire. o</item>
+                  <item>Notingham Shire. o</item>
+                  <item>Northumberland. o</item>
+                  <item>Oxford Shire. <list>
+                        <item>Collonel <hi>Nathaniel Fiennes</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. William Lenthal</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Miles Fleetwood</hi>
+                        </item>
+                        <item>Sir <hi>Francis Norris</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Jenkinson</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Crook</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Rutland Shire. o</item>
+                  <item>Shrop Shire. <list>
+                        <item>
+                           <hi>Mr. Iohn Ashton</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Stafford Shire. <list>
+                        <item>Sir <hi>Charles Ouseley</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Nowell</hi> Scrivener</item>
+                        <item>Captain <hi>Whitgreave</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Somerset Shire. <list>
+                        <item>Recorder <hi>Long</hi>
+                        </item>
+                        <item>Collonel <hi>Iohn Gorges</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Robert Aldworth</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Ash</hi> junior</item>
+                     </list>
+                  </item>
+                  <item>South-Hampton <list>
+                        <item>Lord Commissioner <hi>Lisle</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Smith</hi> Commissioner of the Navie</item>
+                        <item>Major <hi>Bowreman</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Suffolk. <list>
+                        <item>
+                           <hi>Mr. Franeis Bacon</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Nothaniel Bacon</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Robert Brewster</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Surry <list>
+                        <item>Sir <hi>Richard Ansloe</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Iohn Goodwin</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Duncomb</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Drake</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. De la noy Southwark</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Sussex. <list>
+                        <item>Sir <hi>Iohn Trever</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Warwick Shire. <list>
+                        <item>
+                           <hi>Mr. Clement Throgmorton</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Lucy</hi>
+                        </item>
+                        <item>Major <hi>Beake</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <pb n="23" facs="tcp:115271:12"/>
+                  <item>Worcester Shire.
+<list>
+                        <item>Sir <hi>Thomas Rouse</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Edward Pitt</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>VVilt Shire. <list>
+                        <item>
+                           <hi>Mr. Gabriel Martin</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Lancashire. <list>
+                        <item>Collonel <hi>Ireland</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>VVestmoreland. o <list>
+                        <item>Not known to what Coun<g ref="char:EOLunhyphen"/>ties they belong.</item>
+                     </list>
+                  </item>
+                  <item>Sir <hi>Thomas Wrath</hi>
+                     <list>
+                        <item>Col. <hi>Bret</hi>
+                        </item>
+                        <item>Major. <hi>Beak,</hi> Life guard</item>
+                        <item>
+                           <hi>Mr. Lawrence,</hi> the Presi<g ref="char:EOLhyphen"/>dents Son</item>
+                        <item>
+                           <hi>Mr. Walter,</hi> Sir <hi>
+                              <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>ardress</hi>'s Son</item>
+                        <item>Alderman <hi>Stevens</hi>
+                        </item>
+                        <item>Mr. <hi>Thelwell</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>VVales. <list>
+                        <item>Collonel <hi>Phillip Iones</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Cleypoole,</hi> called Lord</item>
+                        <item>
+                           <hi>Mr. Trevor</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Williams</hi>
+                        </item>
+                        <item>Judge <hi>Glyn</hi>
+                        </item>
+                        <item>
+                           <hi>Griffith Bedwerda</hi>
+                        </item>
+                        <item>Collonel <hi>Phillips</hi>
+                        </item>
+                        <item>Mr. <hi>Ʋpton</hi>
+                        </item>
+                        <item>Mr. <hi>Hugh Price</hi>
+                        </item>
+                        <item>Mr. <hi>Lloyd</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Herbert</hi>
+                        </item>
+                        <item>Collonel <hi>George Twisleton</hi>
+                        </item>
+                        <item>Collonel <hi>Iohn Carter</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>For Scotland. <list>
+                        <item>Lord <hi>Cockram</hi>
+                        </item>
+                        <item>Sir <hi>Alexander Wedderbone</hi>
+                        </item>
+                        <item>Mr. <hi>Ramsey</hi> Provost of <hi>Edin<g ref="char:EOLunhyphen"/>brough</hi>
+                        </item>
+                        <item>Sir <hi>Iohn Weimes</hi>
+                        </item>
+                        <item>Lord <hi>Tweedale</hi>
+                        </item>
+                        <item>Doctor <hi>Douglas</hi>
+                        </item>
+                        <item>Mr. <hi>Barcklay</hi>
+                        </item>
+                        <item>Mr. <hi>Woosley</hi>
+                        </item>
+                        <item>Commissary <hi>Lockart</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Godfrey Rhodes</hi>
+                        </item>
+                        <item>Mr. <hi>Lockart</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>English men for <hi>Scotland.</hi>
+                     <list>
+                        <item>Collonel <hi>Henry Markham</hi>
+                        </item>
+                        <item>Lord <hi>Broghill</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>For Ireland. <list>
+                        <item>Recorder <hi>Bice</hi>
+                        </item>
+                        <item>Mr. <hi>Ʋincent Gookin</hi>
+                        </item>
+                        <item>Alderman <hi>Tigh,</hi> Mayor</item>
+                        <item>Collonel <hi>Raynolds</hi>
+                        </item>
+                        <item>Major <hi>Owen</hi>
+                        </item>
+                        <item>Major <hi>Morgan</hi>
+                        </item>
+                        <item>Sir <hi>Theophilus Iones</hi>
+                        </item>
+                        <item>Collonel <hi>Iephson</hi>
+                        </item>
+                        <item>Collonel <hi>Bridges</hi>
+                        </item>
+                        <item>Collonel <hi>Fouke</hi>
+                        </item>
+                        <item>Lievetenant Coll. <hi>Berisford</hi>
+                        </item>
+                        <item>Major <hi>Aston</hi>
+                        </item>
+                        <item>Captain <hi>Halsey</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>In All, 120. VVhereof, of the Council with the Secre<g ref="char:EOLhyphen"/>tary 5</item>
+                  <item>Of his Kindred 12</item>
+                  <item>Officers belonging to the Army and Navy in pay 20</item>
+                  <item>Others receiving Sallaries and lying under other En<g ref="char:EOLhyphen"/>gagements 33</item>
+                  <item>In all 70.</item>
+               </list>
+               <p>
+                  <hi>The other Fifty are</hi> Scots <hi>and</hi> English <hi>men of slight, low, and inconsiderable Principles, and will turn any way their Master will have them.</hi>
+               </p>
+               <pb n="24" facs="tcp:115271:13"/>
+               <p>It is reported that severall of these Persons, because their Protector judged it not safe for him at that time, to accept of their unworthy offer, being either really, or seemingly dissatisfied, went away, and would not give their vote for this new Government, now pretended to be setled; called the <hi>Humble Petition and Advice:</hi> Which as is commonly spoken, was carried but by three voyces, Fifty three against Fifty: And is also against the desire and approbation of the good people of the Nation. The Names of which Fifty three persons should also have fol<g ref="char:EOLhyphen"/>lowed in the next place, could a true Catalogue thereof been obtayned.</p>
+               <p>Nor are they hereby excused, who gave their Vote for one or the other, but seem to be dissatisfied with present proceedings, because by their sitting in the House, they pretend as Representors of the people (for whom they serve) to preserve their Rights and Freedomes, free from the Violence, Tyranny and Oppression of all Arbitrary powers whatsoever. Yet notwithstanding, as by suffer<g ref="char:EOLhyphen"/>ing their fellow Members to be kept from them, and judged without doores. Sitting and Adjourning at the Protectors pleasure, as if they were his Servants; with many other unworthy things, which already have been, and further might be mentioned: So when they were endeavoured to be violated by the Kinglings. And be<g ref="char:EOLhyphen"/>ing now really Trampled upon, and given away, by the above mentioned Fifty three persons. (who like so ma<g ref="char:EOLhyphen"/>ny Slaves or Vassals with Ropes about their necks, came bowing and beseeching him to take the sole Govern<g ref="char:EOLhyphen"/>ment of the 3. Nations upon him; and to choose his Suc<g ref="char:EOLhyphen"/>cessors) They do not Cry out, Protest, Declare against, and withdraw from them, (which either is, or ought to be their Liberty) in the doing whereof, these unparalelled wickednesses,
+<pb n="25" facs="tcp:115271:13"/> (the fruit of this late Apostacy) must of necessity fall to the ground; but thorough love to their self-Interest, unbelief, and not trusting the Lord with their outward Concernments; in bearing a thorough Testimony against them, and in standing for the good of the people, they go on with them, stifling their own Consciences, and simply endeavouring to quiet and satisfie their Oppressed Bre<g ref="char:EOLhyphen"/>thren, by saying, he hath not the Title of King; as if all the evill, Oppression, and Arbitrariness lay in that, when as he hath the same, and no less power, than if he had the Title, and were called King: Yea, a far greater power (as was said before) than what cost so much Blood and Treasure to oppose in the late King. Surely these slight pretences will not sufficiently excuse them in the day of their Account for thus doing.</p>
+            </div>
+            <div type="queries">
+               <head>Thus farre the Description and Narrative; A few general Queries are further Proposed for a close to the whole. And it is humbly offered to the consideration of all ingenuous People, and queried, whether the aforementioned 'persons who seem to dissent from the present proceedings, and their brethren the Kinglings, together with the fifty three new go<g ref="char:EOLhyphen"/>vernment men, who also in time may be more publick, fall not under some of these following Characters, such as know them may judge.</head>
+               <p>FIrst, Whether they are not those who worship the ri<g ref="char:EOLhyphen"/>sing Sun—. Or, such as have advanced great estates by the Publick, and may be in fear of being called to an account— Or such as are under hopes and expectations to raise themselves by the present Interest — Or, as are lovers of popularity, and to be in high places— Or, as are of a low and timerous spirit, not approving their
+<pb n="26" facs="tcp:115271:14"/> hearts to God, or redeemed from men, and so are fearfull to give offence by their discenting— Or, such as had some designe to drive either for themselves, Re<g ref="char:EOLhyphen"/>lations, or the<note n="(*)" place="margin">A gentleman of this juncto swore he would go help settle the Church, that in matters of Religion scarce knows the right hand from the left.</note> Clergy— Or at best, were such as thought that by their continuance there, they might so ballance proceedings, as to prevent the running of things into that extremity, as other<g ref="char:EOLhyphen"/>wise they would; not considering they did much more hurt in countenancing them with their presence, then they could do good by their Op<g ref="char:EOLhyphen"/>position, which was but laughed at.</p>
+               <p n="2">2. How the People of this Nation should come to be concluded by, Take notice off, or be subject too this New Government, framed, and made by these men; see<g ref="char:EOLhyphen"/>ing they never chose them to any such purpose, nor<note n="*" place="margin">Not one Petition from any County, or Town in <hi>England,</hi> or Dominions thereunto belonging.</note> Pe<g ref="char:EOLhyphen"/>titioned them about any such thing; If they could assume a Liberty to alter the Government from what they found it; Why might it not have become them to have attempted rather the Redu<g ref="char:EOLhyphen"/>cing of it to such a Form, as might have answered the just ends and expectations of those that sent them, than such a heiglitening as this, of an In<g ref="char:EOLhyphen"/>terest, formerly so much complained of? That an attempt to change the Government, should be cause suffi<g ref="char:EOLhyphen"/>cent to dissolve his last Parliament; and not be an of<g ref="char:EOLhyphen"/>fence in this? is there not cause to say, that having served the end for which they at first were chosen <hi>viz.</hi> the ad<g ref="char:EOLhyphen"/>vance of their Protectors Interest and his providing for his designes (which neither the old Parliament; little Parlia<g ref="char:EOLhyphen"/>ment, nor his former Parliament would do,) they are still continued, and kept as a reserve against the next opertu<g ref="char:EOLhyphen"/>nity to bring further slavery, and oppression upon the Nation.</p>
+               <pb n="27" facs="tcp:115271:14"/>
+               <p n="3">3. Whether the Government by the keepers of the li<g ref="char:EOLhyphen"/>bertyes of <hi>England,</hi> the peoples, (who have not forfeited their Liberties) Representors, and a Councill of State was not or may not be more successfull for the good of the Na<g ref="char:EOLhyphen"/>tion, and a great deal less burthensome and chargable to the people then the instrument of Protectorall Govern<g ref="char:EOLhyphen"/>ment, or the present Government, of the Humble Petiti<g ref="char:EOLhyphen"/>on and advice, though the former of which was so high<g ref="char:EOLhyphen"/>ly boasted off, as if it came from heaven, and as if one iota of it might not be parted with, and that<note n="*" place="margin">See Protector (so called) Speech to his Parliament, after the old, &amp; little Parliaments were dissolved.</note> o<g ref="char:EOLhyphen"/>ther foundations could no man lay, yet in three yeares time, its found utterly useless, destroying it self, so as that by the humble Petition And ad<g ref="char:EOLhyphen"/>vice, the Idea and desire of Mr. <hi>Thurloe,</hi> and his Master, rather then the invention, and free pro<g ref="char:EOLhyphen"/>posall of his mercinary Juncto, it must by their pretended authority be changed for something that is likely to prove as uselesse, as that was, if not more.</p>
+               <p n="4">4. Whether those gentlemen sitting in the house, who were chosen by the Instrument of <hi>Protectorall Govern<g ref="char:EOLhyphen"/>ment.</hi> Which they have now cast out, and introdu<g ref="char:EOLhyphen"/>ced their new Government of the <hi>Humble Petition and ad<g ref="char:EOLhyphen"/>vice</hi> in the roome thereof, were not in all reason to have ceased, and gone out, with the Government that chose them, rather then without the good peoples consent, and a new choyse (by this new device of adjournment) con<g ref="char:EOLhyphen"/>tinued themselves as Lords over the nation, in this their new erected Government.</p>
+               <p n="5">5. Whether the good old cause formerly contended and bled for, and which cost so much Treasure in the hands of other instruments, in the long, and little Parlia<g ref="char:EOLhyphen"/>ment, be not in a very great degree and measure (if not al<g ref="char:EOLhyphen"/>together) changed and put into the hands of such, as sometimes were accounted either Neuters, or Malignants, or not so fitt for so great a Trust.</p>
+               <pb n="28" facs="tcp:115271:15"/>
+               <p n="6">6. Whether the Lawyers, or Gentlemen of the long Robe, having gained their Protector, over to their Inte<g ref="char:EOLhyphen"/>rest and Party (as was learnedly, &amp; wittingly intimated, by the Speaker, at the late Inauguration, when he had di<g ref="char:EOLhyphen"/>vested him of his sword, and put on the Kings Robe, <hi>(That now he might speak without offence, That his Highnesse was become a Gown-man)</hi> are not in a fairer and more likely way, and capacity, to hang up the Souldiers Belts and Swords in <hi>Westminster</hi> Hall by the <hi>Scottish</hi> Colours, than the Souldiers are, to hang up the Lawyers Gowns there? As they have oft times threatned they would: Alas poor <hi>England,</hi> is not the Law, and the administring of it, as cor<g ref="char:EOLhyphen"/>rupt, dilatory, burthensome, and vexatious as ever? doth the striving of these two great Interests produce any good to thee? (which the souldiers once so highly pre<g ref="char:EOLhyphen"/>tended too) or rather is there not hereby an increase of thy pressures and burthens.</p>
+               <p n="7">7. Whether the proceedings in the late Convention, particularly the Votes for another House, a standing Ar<g ref="char:EOLhyphen"/>my, a perpetual Tax for Customs, to be let to Farm, the hot attempts to build again the cursed ruins of Kingship: Also resolutions to bring in publique profession of Faith, and to tye up the publique maintenance to conformity thereunto, with the endeavours that were used to have imposed a Catechisme upon us, do not clearly shew what a spirit is raised up again? And whether dos not the ten<g ref="char:EOLhyphen"/>dency of these transactions (according to humane pro<g ref="char:EOLhyphen"/>bability, threaten a<note n="*" place="margin">See Provision for Tender Constiences in <hi>Humble Petition and Advice, Article 11.</hi> See their Act for <hi>Chatechi<g ref="char:EOLhyphen"/>sing,</hi> and that for the <hi>Lords Day.</hi> See <hi>Bacon</hi> and <hi>Tates</hi> Ordinance a<g ref="char:EOLhyphen"/>gainst <hi>Blasphemy,</hi> now seemed to be revived by them.</note> Rendivation of Civill and Ecclesiasticall Tyranny; against which a most solemne and signal Testimony hath been born a<g ref="char:EOLhyphen"/>mong us by the spirit of God in his People, the blood of the Saints, and the dreadfull effects of providence.</p>
+               <pb n="29" facs="tcp:115271:15"/>
+               <p n="8">8. VVhether the great and high concernments, formerly the travel, the hopes and aimes, of many among us, were at all upon the hearts of those in Power, or their late Assembly, to wit, a farther Reformation of things, in the regulation of Law, the dessolation of oppressive Courts, and Committees, the abrogation of Tythes, and supernumerary Offices, the removall of all unnecessary burthens, and publick grievances; with all such laws, customs, and proceedings, as were calculated for the interest of meer will and power of Antichristian and arbitrary greatness? But on the contrary hath not the result of late proceedings been such, as hath already (in part) healed the wound that these had received, and holds out a cleer intendment to restore them again to their former power, splendor, and exaltation, to the making void as much as in them lyes, the deare effect of all the Blood, Prayers, Appeals, and glorious deliverances, which have been laid out up<g ref="char:EOLhyphen"/>on that acccount?</p>
+               <p n="9">9. Whether the hard proceedings against <hi>James Nailer,</hi> in his usage and punishment (although his principle be not hereby owned) doth not in a great measure, very neerly concern many godly, sober and peaceable People in the three Nations? Have they any good assurance, they may not hereafter be dealt withall after the like manner? And whether the several Professions among us, that by the National Faith shall be concluded unorthodoxe, may not from these beginnings, and other foundations already laid, expect to receive the like enter<g ref="char:EOLhyphen"/>tainment, at the hands of this Generation; as the godly and faithfull followers of Christ have at the hand of the worldly Powers, and National Church in times past.</p>
+               <p n="10">10. VVhether the Oath <hi>Ex Officio</hi> used by the Bishops in their Court of High Commission, judging the opinions, and racking the Consciences of good people formerly? be not like to come into use again? seeing swearing begins to grow so much into request, and to be so common, nor enely at Court among great men, but also in their Parliaments, appointing Commissioners (together with the Excise and Customs) to let it to farm; for do they not give power (as appears in their Act for New Buildings) to cause men to swear, who sometimes its to be feared forswear themselves? whether the land hath not formerly mourned, be<g ref="char:EOLhyphen"/>cause of Oaths? And is it not by this means likely to do so again?</p>
+               <p n="11">11. VVhether the spirit of the <hi>Star Chamber</hi> and Council Board, did not also rise up, and act vigorously in the house, putting them upon the project of punish<g ref="char:EOLhyphen"/>ing persons for building new Houses, for new families, which the Lord hath been pleased to multiply? As if his blessing of increasing the people, in, and neer <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> were a judgement or curse? and the increasing of dwellings for them, a Crime to be punished by a<note n="*" place="margin">All Houses without the walls of the Citty for ten miles distance round, that from <hi>37</hi> years past to the <hi>29. Septem. 1657.</hi> have been built upon new foundations, are by the late act to pay a full years rent to the Protector, as they may be let at a rack Rent; In execution whereof so much op<g ref="char:EOLhyphen"/>pression hath been ex<g ref="char:EOLhyphen"/>ercised already, as would take up too much room to declare it.</note> Mulct or Fine: And if the Lord shall be pleased to withhold the Sword and Pesti<g ref="char:EOLhyphen"/>lence, for seven years to come, as he hath done, the last seven or ten years past, and continue the like increase of new Families, must not the foresaid families either sup<g ref="char:EOLhyphen"/>plant the old, or go build new Houses at <hi>Iamaca?</hi> Such being the present case already, that a house is hardly to be gotten for a family to live in? which things being consi<g ref="char:EOLhyphen"/>dered,
+<pb n="30" facs="tcp:115271:16"/> might it not be desired; that those Gentlemen of the long Robe, and the great Swordmen their brethren, who have had such a fellow feeling of the conditions and estates of the poor Tradesmen and Artificers, as to impose this burthen upon them, would lend them their Inns of Court and Chancery, VVhitehall, St. <hi>Iameses,</hi> and other great houses, before the poore new families should lie out of doores, or have no houses to dwell in.</p>
+               <p n="12">12. VVhether extream necessity did not at first introduce that so much abhor<g ref="char:EOLhyphen"/>red Tax (by the English) of Excise, onely to maintaine the VVar, wherein they were then engaged, for justice and freedome, against a Negative Voice in the late King? And his claming the sole power of the malitia, as of Right belonging to him? And whether the said Tax was not intended to be continued for so long time onely, till that necessity was over and no longer, and the Nation then to be re<g ref="char:EOLhyphen"/>duced to its freedome again? And if so? VVhether there be not greater reason that, that burthen should cease, and be taken off the people, than now in a time of peace (together with the Customs) be made perpetuall, and a standing Revenue to hold up and maintain those very Usurpations, and grievances, <hi>viz.</hi> a Negative Voice over the Peoples Representors in Parliament. And the sole power of the malitia in the hands and dispose of a Protector, for the extirpation whereof it was first imployed?</p>
+               <p n="13">13. VVhether the Excise be not a Tax farre more burthensome than ship<g ref="char:EOLhyphen"/>money in the dayes of the King? And whether the late<note n="*" place="margin">Which was done by the Protector (so cal<g ref="char:EOLhyphen"/>led) and his Council, no Parliament sitting As the King and his Couneil formerly rai<g ref="char:EOLhyphen"/>sed Ship money.</note> continuing of it for two or three years on the people without the least shew of Par<g ref="char:EOLhyphen"/>liamentary Authority; were not an act as criminall, &amp; ob<g ref="char:EOLhyphen"/>noxious to justice, as was the levying of Shipmoney in that day? And surely had this late Convention been of English spirits, and not basely unworthy? would they not rather have broken this yoke to pieces, and freed them from that devouring oppressing Tax, than made it<note n="*" place="margin">Can any other be expected from mer<g ref="char:EOLhyphen"/>cenary Souldiers, Lawyers, Sallary<g ref="char:EOLhyphen"/>men, and other Court parasites.</note> heavier, and by a Law, bound it upon their shoulders for ever?</p>
+               <pb n="31" facs="tcp:115271:16"/>
+               <p n="14">14. VVere not these late Acts for continuance of Excise and Customs for ever, with the delegated powers therein contained, to Swear, Fine and Imprison per<g ref="char:EOLhyphen"/>sons at pleasure, together with the Act of Farming out the same, with that of the New Buildings, calculated and designed on purpose against the Merchants, Tradesmen, Artificers, and the whole Citty of <hi>London,</hi> with parts adjoyning to bring them down and make them poore and low, that so like a great tame Asse subdued to the Yoke, they may be ridden at pleasure? And as fit for nothing else but to bear the burthen of the whole Nation? And whether they be well reward<g ref="char:EOLhyphen"/>ed by these new law makers, for their former forwardnesse in the good old cause, in lending their money, and adventuring their lives at <hi>Glocester, Newport pan<g ref="char:EOLhyphen"/>nell, Aulton,</hi> and other places, for the delivering their country from those very Yokes, which are now by a law re-established, and imposed upon us?</p>
+               <p n="15">15. VVhether these pretended Lawmakers, had not more of a selfish, than a publick spirit, in declining the way of Subsidy, and advancing their Nineteen hundred thousand pounds per Year, for the support of their New Government? by laying two thirds of the same, on the Merchants, Tradesmen and Artificers? And the other third on the Reall and Personal estates of the Nation? Have they not hereby slipt their own shoulders from under the burthen? And unworthily laid it heavy on the Industrious people? Whilest the Lawyers great places and fees, with the Sword-mens sallaries, and land purchased or got with the price of other mens blood, pay little or nothing at all?</p>
+               <p n="16">16. VVhether the Gentlemen of this Convention, be not the very off spring of the old Courtiers, and their dependants, the late Patentees supprest and turn<g ref="char:EOLhyphen"/>ed out of the long Parliament, at their first fitting as unworthy to come there? in that they have bought and sold the People of this Nation, by letting, and ta<g ref="char:EOLhyphen"/>king to Farm, their Rights and Properties? Did ever any company of men be<g ref="char:EOLhyphen"/>fore, abuse parliamentary Authority so? As these men have done, in making an Act to let to Farm the good people of this Nation, their properties and goods, to such as will bid most? And authorising their members to become like Panders, to give entertainment to all commers, who have a mind to be Pattentees, and contract with them for power, to use the English free people as they please?</p>
+               <p n="17">17. Whether the pretence of advancing a Revenue to the state, be a plea suf<g ref="char:EOLhyphen"/>fficient to warrant their oppressing, impoverishing, and enslaving the people of this Nation, to fill the States Coffer? Or rather the lusts of some great Statesmen? And whether such as buy dear, must not sell dear, and use such means to raise their money again, as will eat up the people to the very bones? VVas not Sir <hi>A<g ref="char:EOLhyphen"/>braham Daws,</hi> Sir <hi>Iohn Worsenham,</hi> Sir <hi>Nicholas Crisp,</hi> counted criminall, and Fined accordingly, for being such farmers? And whether the Gentlemen that do, and shall now adventure to Farm, may not in time, come to be subjects of like ju<g ref="char:EOLhyphen"/>stice, as was deservedly executed upon <hi>Empson</hi> and <hi>Dudley,</hi> with their confede<g ref="char:EOLhyphen"/>rates, for their racking and peeling the people of this Nation formerly?</p>
+               <p n="18">18. VVhether the raising up again the ruines of the fallen Courts and Mo<g ref="char:EOLhyphen"/>narchy, and the giving up the grand Interests of the people, so lately Redeemed with the price of much precious blood, out of the clutches of tyranny, into the hands of one single Person again; and this done without the advice and consent,
+<pb n="32" facs="tcp:115271:17"/> and against the hopes and expectations, of the most faithfull and honest part of the Nation? Be not an act highly unworthy the day that is upon us, and a funda<g ref="char:EOLhyphen"/>mentall ground of dissatisfaction to all, in whom there yet remains, any sence of the late most honourable Cause, and of the experiences &amp; appearances that at<g ref="char:EOLhyphen"/>tended us, while we abode uncorrupted in the faithfull, and fervent prosecution thereof?</p>
+               <p>
+                  <hi>Upon the whole,</hi> Whether these things brought forth of late, be the natural issue of those noble beginnings formerly among us; or rather the degenerate fruits of that bit<g ref="char:EOLhyphen"/>ter root of Apostacy, that hath sprung up since, and of late more effectually ma<g ref="char:EOLhyphen"/>nifested it self, under the face of Authority? In an Assembly of men, made up of persons ridden by the Clergy, and acted by principles of self security, and ad<g ref="char:EOLhyphen"/>vancement of Sons, and Kinsmen, Servants, of low spirited conquered Scots, cur<g ref="char:EOLhyphen"/>bed Cavaleers, and young boyes, of corrupt Lawyers and others, who prostitute their light and principles to their <hi>Diana</hi> to uphold their gain and profits. And of a declined sort of Independent, Baptised, Ranting and mercuriall divinity pro<g ref="char:EOLhyphen"/>fessors; And lastly, of mercinary Souldiers, and Sword men, who have out of fear, or covetous self-ends Apostated, and unworthily betrayed, as honorable and precious a cause as ever was on foot since the world began, of all which this Jun<g ref="char:EOLhyphen"/>cto was made up, and constituted.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>Post-script.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>This had come sooner into thy hands had not providence hinderd; what is wan<g ref="char:EOLhyphen"/>ting either for matter or form thou art desired (who art capable here of) to make a supply in this or some other manner more for the discovery of wickedness, and pleading for righteousnesse; and however the Apostates of this day (with their Protector) may be dispeased and rage thereat; yet considering the encouragement our Lord Protector gives thee hereunto, Isa. <hi>9.16.</hi> VVho complains (that in aday of transgressing, lying and departing away from God, of oppression; yea when truth failed, and he that departed from evill made himself a prey, and there was no judgement) that none called for justice, nor any man pleaded for truth &amp;c. and wondred there was no intercessor: Let not that lively active spirit, that once ap<g ref="char:EOLhyphen"/>peared for God, against Tyranny and wickedness in the late Kings dayes, now dye; when the same spirit and wickedness is again revived and acting, even by them who were once so instrumentall to destroy the late generation, for these very things. Your freind who hath in some measure been instrumentall herein, hath no other apprehensions in his own spirit, but that he may ere long be known, and dealt with<g ref="char:EOLhyphen"/>all, as others have been formerly upon the like account; Yet the matter herein con<g ref="char:EOLhyphen"/>tained, being such as (if justice could take place) might not onely be signed too, plea<g ref="char:EOLhyphen"/>ded for, but would certainly overcome. He is so far from being discouraged, or in the least dampted in his spirit from the publishing hereof, that he had much rather (the Lord assisting) be exposed to a state of prisonment all his dayes, yea to death it selfe, than withdraw his assistance in the least measure in this or any other thing, wherein he apprehends he may be usefull to witness against the Apostacy of this day, to revive the good old Cause, and bring in justice and righteousness to the people.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:115271:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
